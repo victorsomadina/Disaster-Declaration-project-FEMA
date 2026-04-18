@@ -1,0 +1,1001 @@
+disasterNumber,stateAbbreviation,incidentType,projectAmount,federalShareObligated,totalObligated,projectSize,damageCategoryCode,applicationTitle
+1239,TX,Severe Storm(s),100000.0,75000.0,80340.0,Large,B,(PW# 1) IMMEDIATE NEEDS FUNDING
+1239,TX,Severe Storm(s),19685.5,14764.13,15461.0,Large,G,(PW# 5) Not Provided
+1239,TX,Severe Storm(s),26111.0,19583.25,20507.58,Large,G,(PW# 7) Not Provided
+1603,LA,Hurricane,18602329.78,18602329.78,18788818.15,Large,E,(PW# 18097) PROJECT MANAGEMENT FEES  ON MULTIPLE FACILITIES THROUGHOUT THE PARISH
+1239,TX,Severe Storm(s),26250.83,19688.12,20617.4,Large,G,(PW# 8) Not Provided
+1239,TX,Severe Storm(s),34502.5,25876.88,27098.27,Large,G,(PW# 10) Not Provided
+1239,TX,Severe Storm(s),23744.2,17808.15,18465.86,Large,G,(PW# 16) Not Provided
+1239,TX,Severe Storm(s),68496.34,51372.25,53826.79,Large,E,(PW# 25) L
+1239,TX,Severe Storm(s),7937.0,5952.75,6172.6,Large,E,(PW# 27) Not Provided
+1239,TX,Severe Storm(s),5649.8,4237.35,4393.85,Large,C,(PW# 40) Not Provided
+1239,TX,Severe Storm(s),1489.98,1117.49,1158.77,Large,C,(PW# 41) Not Provided
+1586,AZ,Severe Storm(s),112090.72,84068.04,88196.37,Large,G,(PW# 1) GABIONS PLAY AREA
+1586,AZ,Severe Storm(s),773645.98,580234.49,603034.89,Large,G,(PW# 4) TRAILS
+1239,TX,Severe Storm(s),11696.75,8772.56,9096.56,Large,C,(PW# 49) Not Provided
+3384,PR,Hurricane,59779.98,44834.99,44834.99,Small,B,6E1 - EMERGENCY PROTECTIVE MEASURES
+3384,PR,Hurricane,20333.13,15249.85,15249.85,Small,B,17E4 - EMERGENCY PROTECTIVE MEASURES
+3384,PR,Hurricane,1078613.74,36996.46,36996.46,Large,A,SJU001A- DEBRIS REMOVAL
+3384,PR,Hurricane,7390.12,7390.12,7390.12,Small,Z,EVAM059 - Interim Management Costs
+3384,PR,Hurricane,160820.38,136697.32,136697.32,Large,A,35E1-DEBRIS ALTERNATIVE PROCEDURES PAAP
+3384,PR,Hurricane,13463.23,10097.42,10097.42,Small,A,38E1 Debris Alternative Procedures
+1239,TX,Severe Storm(s),17460.0,13095.0,13578.64,Large,C,(PW# 58) Not Provided
+1791,TX,Hurricane,2627.46,2364.72,2364.72,Small,E,(PW# 1587) 30081 Building 33 - Nolan Hall
+3384,PR,Hurricane,23190.21,17392.66,17392.66,Small,A,48E1 Emergency
+3384,PR,Hurricane,13897.06,10422.8,10422.8,Small,B,EMAY002-EMERGENCY PROTECTIVE MEASURES
+3384,PR,Hurricane,111643.96,94897.36,94897.36,Small,A,EBAR001- BARCELONETA- CAT A
+1239,TX,Severe Storm(s),17595.0,13196.25,13683.63,Large,E,(PW# 59) Not Provided
+3384,PR,Hurricane,29607.57,25166.43,25166.43,Small,A,EISA001 Debris Alternative Procedures PAAP
+3384,PR,Hurricane,171149.22,145476.84,145476.84,Large,A,EAGM001 - Debris Alternative Procedures PAAP
+3384,PR,Hurricane,14166.4,10624.8,10624.8,Small,B,EEPA004 - Emergency Protective Measures
+3384,PR,Hurricane,104579.82,88892.85,88892.85,Small,A, ECAG002 Debris Alternative Procedures PAAP
+1239,TX,Severe Storm(s),500000.0,375000.0,390124.81,Large,B,(PW# 64) L - BATCH 1 - IMMEDIATE NEEDS FUNDING
+1239,TX,Severe Storm(s),22880.0,17160.0,17969.95,Large,C,(PW# 82) Not Provided
+3384,PR,Hurricane,167948.54,142756.26,142756.26,Large,A,EMAN 001 DEBRIS ALTERNATIVE PROCEDURES PAAP FINAL
+1239,TX,Severe Storm(s),14421.6,10816.2,11361.34,Large,F,(PW# 98) SEWER LINE DAMAGE
+3384,PR,Hurricane,28377.3,24120.71,24120.71,Small,A,  ECAY002 - Debris Alternative Procedures -PAAP  
+3384,PR,Hurricane,76747.68,57560.76,57560.76,Small,B,ETRU002 - Emergency Protective Measures
+1239,TX,Severe Storm(s),37335.0,28001.25,29035.43,Large,F,(PW# 103) Not Provided
+3384,PR,Hurricane,66616.37,49962.28,49962.28,Small,B,EEPA005 EMERGENCY PROTECTIVE MEASURES-DISTRIBUTION
+3384,PR,Hurricane,29730.59,25271.01,25271.01,Small,A,EMOR202 - Debris Alternative Procedures - PAAP
+3384,PR,Hurricane,112356.7,84267.53,84267.53,Small,A,EMAY001 - Debris Removal (2)
+3384,PR,Hurricane,20452.0,15339.0,15339.0,Small,B,IFID001 - Materials 
+3384,PR,Hurricane,20707.8,15530.85,15530.85,Small,B,EDOH002 - Emergency Protective Measures 
+3384,PR,Hurricane,5800.0,4350.0,4350.0,Small,B,ESCD001 Emergency Protective Measures
+3384,PR,Hurricane,21784.44,16338.33,16338.33,Small,B,EYAB002 EMERGENCY PROTECTIVE MEASURES
+3384,PR,Hurricane,1998.65,1498.99,1498.99,Small,Z,ECAB002 PAAP DAC - SubRecipients
+3384,PR,Hurricane,78518.29,58888.72,58888.72,Small,B,ETBM011 Emergency Protective Measures 
+3384,PR,Hurricane,1051.31,1051.31,1051.31,Small,Z,Coamo - Management Costs (Interim)
+3384,PR,Hurricane,14855.66,12627.31,12627.31,Small,A,ESAN001 Debris Alternative Procedures PAAP
+3384,PR,Hurricane,2184.63,1638.47,1638.47,Small,Z,EMOR203 - DAC PAAP
+3384,PR,Hurricane,6740.09,5055.07,5055.07,Small,Z,CAT A and B- BARCELONETA
+3384,PR,Hurricane,211.54,211.54,211.54,Small,Z,Salinas 3384 Management Costs
+3384,PR,Hurricane,2044.92,2044.92,2044.92,Small,Z,Management Costs Interim Policy - Municipality of Yabucoa
+1239,TX,Severe Storm(s),3832.01,2874.01,3018.86,Large,C,(PW# 114) Not Provided
+3384,PR,Hurricane,9592.77,7194.58,7194.58,Small,Z,PAAP DAC - Municipality of Fajardo
+3384,PR,Hurricane,2319.72,1739.79,1739.79,Small,Z,Municipality of Las Piedras - PAAP DAC
+3384,PR,Hurricane,8404.76,6303.57,6303.57,Small,Z,104344 DAC 3384EM-PR - Cat Z
+3392,LA,Flood,237285.12,237285.12,237285.12,Large,Z,State Management Expenses
+3392,LA,Flood,19438.61,14578.96,14578.96,Small,B,Emer. Prot. Mea.
+3392,LA,Flood,12879.55,9659.66,9659.66,Small,B,Emergency Protective Measures
+3392,LA,Flood,3787.5,2840.63,2840.63,Small,B,Emergency Protective Measures
+3392,LA,Flood,6002.77,4502.08,4502.08,Small,B,Greater Lafourche Port Commission EPM
+3392,LA,Flood,44190.63,33142.97,33142.97,Small,B,DCFS Shelter Support
+3392,LA,Flood,61199.64,45899.73,45899.73,Small,B,Emergency Protective Measures
+3392,LA,Flood,75014.66,56261.0,56261.0,Small,B,"Emergency Protective Measures Districts 02, 61 and 62"
+3392,LA,Flood,3647.19,2735.39,2735.39,Small,B,"Bayou Dularge Fire Department (Stations 1, 2, and 3)"
+3392,LA,Flood,117291.2,87968.4,87968.4,Small,B,DHH Emergency Protective Measures-Nate
+3392,LA,Flood,85552.98,64164.74,64164.74,Small,B,Lafourche Parish (Nate) EPM
+3392,LA,Flood,29951.22,22463.42,22463.42,Small,B,Plaquemines Medical Ctr Hospital Ser Dist Number 1 EPM
+3392,LA,Flood,123808.22,92856.17,92856.17,Small,B,Emergency Protective Measures - Nate
+3392,LA,Flood,48409.03,36306.77,36306.77,Small,B,Emergency Protective Measure
+3392,LA,Flood,105937.74,79453.31,79453.31,Small,B,St. Charles Parish EPM
+3392,LA,Flood,1160.42,870.31,870.31,Small,Z,PAAP DAC
+3392,LA,Flood,78832.33,59124.25,59124.25,Small,B,Emergency Protective Measures 
+3392,LA,Flood,51637.55,38728.16,38728.16,Small,B,Emergency Protective Measures
+3392,LA,Flood,3325.06,2493.8,2493.8,Small,Z,PAAP DAC
+3392,LA,Flood,197740.83,148305.63,148305.63,Large,B,Plaquemines Parish (Nate) EPM
+3392,LA,Flood,13096.11,9822.08,9822.08,Small,Z,PAAP DAC
+3392,LA,Flood,17227.27,12920.45,12920.45,Small,B,Emergency Protective Measures 
+3428,CA,Biological,52434.13,52434.13,52434.13,Small,B,"Project 1 EOC Pre-Shutdown (Jan 20 - Mar 19, 2020)"
+3428,CA,Biological,34708.54,34708.54,34708.54,Small,B,Food Purchase and Distribution
+3428,CA,Biological,71857.76,71857.76,71857.76,Small,B,Bluestone COVID-19 Software and Database
+3428,CA,Biological,156492.0,156492.0,156492.0,Large,B,SARS-CoV-2 RT-PCR Eligible saliva based testing- Phase 2
+3428,CA,Biological,30050.0,30050.0,30050.0,Small,B,Project 8 Eastern Coachella Valley COVID-19 Clinic Set-Up
+3428,CA,Biological,4954.16,4954.16,4954.16,Small,B,EOC Activities    Project 1
+3428,CA,Biological,10526.94,10526.94,10526.94,Small,B,Facility Disinfection 
+3428,CA,Biological,4650.55,4650.55,4650.55,Small,B,EPM - COVID RELATED SAFETY SIGNS AND SAFETY CONES
+3428,CA,Biological,75509.46,75509.46,75509.46,Small,B,Eligible COVID-19 Food Distribution for Elders/Vulnerable Populations
+3428,CA,Biological,55456.12,55456.12,55456.12,Small,B,Food Purchase and Distribution
+3428,CA,Biological,6967.8,6967.8,6967.8,Small,B,Vaccination Point of Dispensing
+3428,CA,Biological,177447.22,177447.22,177447.22,Small,B,Tribal Member Food Distribution 
+3428,CA,Biological,159537.7,159537.7,159537.7,Small,B,2nd Covid Testing Project 
+3428,CA,Biological,77511.27,77511.27,77511.27,Small,B,Public Information - 2020
+3428,CA,Biological,59928.64,59928.64,59928.64,Small,B,Temporary Barricade Rental 
+3428,CA,Biological,18900.0,17010.0,17010.0,Small,B,SARS-CoV-2 RT-PCR Eligible saliva based testing July 2-Aug 30 22
+3428,CA,Biological,34560.0,34560.0,34560.0,Small,B,"SARS-CoV-2 RT-PCR Eligible saliva based testing March 30-July 1, 2022"
+3428,CA,Biological,217629.57,217629.57,217629.57,Small,B,Project 11 EOC Overtime April-June 2021
+3428,CA,Biological,151652.74,151652.74,151652.74,Small,B,Emergency Operations Center 
+3428,CA,Biological,1612389.47,1612389.47,1612389.47,Large,B,Personal Protective Equipment 
+3428,CA,Biological,140452.56,140452.56,140452.56,Small,B,Kiosk Camera 
+3428,CA,Biological,394713.39,394713.39,394713.39,Small,B,2nd Food Purchase and Distribution Project
+3442,AZ,Biological,64475.39,64475.39,64475.39,Small,B,Food Procurement & Distribution Expenses 2
+3442,AZ,Biological,46337.55,46337.55,46337.55,Small,B,Food Procurement & Distribution Expenses 5
+3442,AZ,Biological,62434.08,62434.08,62434.08,Small,B,Food Procurement & Distribution 10
+3442,AZ,Biological,63338.04,63338.04,63338.04,Small,B,Food Procurement & Distribution Expenses 11
+3442,AZ,Biological,39260.57,39260.57,39260.57,Small,B,Food Procurement & Distribution Expenses 12
+3442,AZ,Biological,73158.16,73158.16,73158.16,Small,B,Food Procurement & Distribution Expenses 14
+3443,NV,Biological,40423.14,40423.14,40423.14,Small,B,EOC Equipment-Vehicles
+3443,NV,Biological,6924.24,6924.24,6924.24,Small,B,Emergency signage
+3484,MA,Biological,14597.52,14597.52,14597.52,Small,B,Government Center Emergency Protective Measures 
+3484,MA,Biological,20456.72,20456.72,20456.72,Small,B,Santuit Inn Non-Congregating Shelter July-August
+3484,MA,Biological,130888.85,130888.85,130888.85,Small,B,Essential Overtime 3
+3484,MA,Biological,22944.77,22944.77,22944.77,Small,B,Rosewood Motel Non-Congregate Sheltering_Feb & April 2021
+3484,MA,Biological,123908.15,123908.15,123908.15,Small,B,Cascade Lodge Non-Congregate Shelter May 2021
+3484,MA,Biological,19428.88,19428.88,19428.88,Small,B,Rosewood Motel Non-Congregate Sheltering_Jan 2021
+3484,MA,Biological,214670.92,214670.92,214670.92,Small,B,Non-Congregate Sheltering Aug 20-July 22
+3484,MA,Biological,514403.14,514403.14,514403.14,Small,B,Non Congregate Sheltering_ Feb 2021 - Dec 2021
+3488,NE,Biological,47359.73,47359.73,47359.73,Small,B,Safe Operating Sanitization Tribewide
+1239,TX,Severe Storm(s),16294.0,12220.5,12445.36,Large,G,(PW# 117) Not Provided
+3489,NE,Biological,38364.77,38364.77,38364.77,Small,B,Salamander emergency system
+3498,ME,Biological,34436.53,34436.53,34436.53,Small,B,EOC_IPS_WK15
+3498,ME,Biological,50389.7,50389.7,50389.7,Small,B,EOC_IPS_WK10
+3498,ME,Biological,49047.88,49047.88,49047.88,Small,B,EOC_IPS_WK5
+3504,NY,Biological,640837.34,640837.34,640837.34,Large,B,*Project closed* Vaccination Center
+1791,TX,Hurricane,672.0,604.8,604.8,Small,E,(PW# 15802) TMF-305  Catepillar Model C-9 Generator
+1709,TX,Severe Storm(s),4335.02,3251.27,3354.66,Small,C,(PW# 3896) ROADS AND BRIDGES
+3507,WA,Biological,68731.48,68731.48,68731.48,Small,B,EMT Reimbursement 2021 4th Quarter
+3507,WA,Biological,83577.5,83577.5,83577.5,Small,B,EMT-Reimbursement First Quarter 2022 
+1709,TX,Severe Storm(s),6432.79,4824.59,4978.0,Small,A,(PW# 3898) PA PILOT PROGRAM
+1709,TX,Severe Storm(s),1076.33,807.25,832.93,Small,C,(PW# 3899) ROADS AND BRIDGES
+3521,NM,Biological,9748.27,9748.27,9748.27,Small,B,Non-Congregant Sheltering 11.4-12.4.2020
+3521,NM,Biological,9693.24,9693.24,9693.24,Small,B,Cleaning 11.16-12.12.2020
+3521,NM,Biological,12437.38,12437.38,12437.38,Small,B,Food Distribution #5
+3521,NM,Biological,9057.34,9057.34,9057.34,Small,B,Laundry #4
+3521,NM,Biological,14940.06,14940.06,14940.06,Small,B,Vaccine Clinic #4
+3523,NE,Biological,112989.04,101690.14,101690.14,Small,B,Tribewide Facility Disinfection - 90% cost share
+3527,LA,Tropical Storm,44310.35,39879.32,39879.32,Small,B,Emergency Protective Measures
+3527,LA,Tropical Storm,1416.5,1416.5,1416.5,Small,Z,Project Management Costs
+3527,LA,Tropical Storm,12293.09,11063.78,11063.78,Small,B,"""App  Cert"" EPM-Tropical Storm Cristobal"
+3530,TX,Tropical Storm,6637.19,6637.19,6637.19,Small,Z,Management Cost 
+3533,FL,Hurricane,6089.11,5480.2,5480.2,Small,B,APP CERT - Emergency Protective Measures - EOC and Sheltering
+3533,FL,Hurricane,30203.05,27182.75,27182.75,Small,B,"APP¿CERT-Emergency Protective Measures-EOC, Sheltering, Evacuation"
+3533,FL,Hurricane,143275.11,128947.6,128947.6,Large,B,"Emergency Protective Measures - EOC, Sheltering, Evacuation"
+3533,FL,Hurricane,1510.16,1510.16,1510.16,Small,Z,CAT Z  Management Cost -  EM 3533 ISAIAS
+3533,FL,Hurricane,21343.11,19208.8,19208.8,Small,B,APP-CERT-Emergency Protective Measures - Sheltering and EOC
+3533,FL,Hurricane,957.86,957.86,957.86,Small,Z,MANAGEMENT COSTS
+3533,FL,Hurricane,573159.47,515843.52,515843.52,Large,B,Emergency Protective Measures Sheltering
+3533,FL,Hurricane,39157.47,35241.72,35241.72,Small,B,Emergency Protective Measures Evacuation
+3539,MS,Hurricane,24600.5,22140.45,22140.45,Small,B,APP-CERT (Emergency Protective Measures for MEMA)
+3540,TX,Tropical Storm,4027.29,3624.56,3624.56,Small,B,Hurricane Laura
+3540,TX,Tropical Storm,15235.31,13711.78,13711.78,Small,B,Hurricane Laura
+3540,TX,Tropical Storm,87816.55,79034.9,79034.9,Small,B,Hurricane Laura
+3540,TX,Tropical Storm,129782.66,116804.39,116804.39,Small,B,Generator PW1
+3540,TX,Tropical Storm,9050.28,8145.25,8145.25,Small,B,Hurricane Laura Expenditures
+3540,TX,Tropical Storm,128781.96,115903.76,115903.76,Small,B,Chambers County FEMA-3450EM-TX Cat B
+1709,TX,Severe Storm(s),1603.21,1202.41,1240.64,Small,C,(PW# 3901) ROADS AND BRIDGES
+3540,TX,Tropical Storm,38131.99,34318.79,34318.79,Small,B,Water & Sewer Departments Force Account Labor
+3540,TX,Tropical Storm,10616.32,9554.69,9554.69,Small,B,Hurricane Laura - Cat B
+3540,TX,Tropical Storm,185727.22,167154.5,167154.5,Large,B,Emergency Preparation and Protective Measures 
+3540,TX,Tropical Storm,24086.88,21678.19,21678.19,Small,B,Hurricane Laura
+3540,TX,Tropical Storm,30400.12,27360.11,27360.11,Small,B,Tropical Storm Laura Emergency Protective Measures
+3540,TX,Tropical Storm,1520.01,1520.01,1520.01,Small,Z,Management Cost
+3540,TX,Tropical Storm,1371.53,1371.53,1371.53,Small,Z,Management Cost
+3540,TX,Tropical Storm,34649688.73,31184719.88,31184719.88,Large,B,Hurricane Laura Cat B
+3540,TX,Tropical Storm,4296.23,4296.23,4296.23,Small,Z,Management Cost
+3540,TX,Tropical Storm,21601.73,19441.56,19441.56,Small,B,Hurricane Laura
+3540,TX,Tropical Storm,89216.72,80295.05,80295.05,Small,B,FEMA Grant Application for laura and Marco
+3543,LA,Tropical Storm,8042.43,7238.19,7238.19,Small,B,EPS - Sally 2020
+1239,TX,Severe Storm(s),12221.6,9166.2,9381.3,Large,G,(PW# 120) Not Provided
+3543,LA,Tropical Storm,93881.26,84493.13,84493.13,Small,B,St Bernard Parish - Hurricane Sally - 2020
+3543,LA,Tropical Storm,674242.62,606818.36,606818.36,Large,B,State Active Duty Soldier Pay
+3543,LA,Tropical Storm,7108.69,6397.82,6397.82,Small,B,Emergency Protective Measures DR-3543 Sally
+3543,LA,Tropical Storm,111346.8,100212.12,100212.12,Small,B,2020S
+3543,LA,Tropical Storm,10278.09,9250.28,9250.28,Small,B,Emergency Protective Measures
+3543,LA,Tropical Storm,801.07,801.07,801.07,Small,Z,Port of New Orleans - Estimated Management Costs for Hurricane Sally
+1257,TX,Flood,2981.0,2235.75,2371.68,Small,C,(PW# 2) F
+1257,TX,Flood,8873.1,6654.83,7059.44,Small,C,(PW# 3) F
+1257,TX,Flood,12177.6,9133.2,9688.5,Small,C,(PW# 5) F
+1257,TX,Flood,3541.0,2655.75,2817.22,Small,C,(PW# 6) F
+1257,TX,Flood,20222.0,15166.5,16088.62,Small,B,(PW# 7) F
+1257,TX,Flood,2737.0,2052.75,2177.56,Small,C,(PW# 10) F
+1257,TX,Flood,4104.46,3078.35,3297.52,Small,B,(PW# 11) V
+1257,TX,Flood,3800.0,2850.0,3052.92,Small,B,(PW# 12) V
+1257,TX,Flood,8976.0,6732.0,7211.32,Small,B,(PW# 13) F
+1257,TX,Flood,6825.0,5118.75,5483.21,Small,F,(PW# 17) F
+1257,TX,Flood,5158.3,3868.73,4144.19,Small,C,(PW# 20) F
+1257,TX,Flood,10492.3,7869.23,8347.68,Small,C,(PW# 22) F
+1257,TX,Flood,15464.9,11598.68,12173.5,Small,C,(PW# 23) F
+1257,TX,Flood,16878.0,12658.5,13428.14,Small,F,(PW# 1) F
+1257,TX,Flood,15403.25,11552.44,12254.83,Small,C,(PW# 8) F
+1257,TX,Flood,8741.0,6555.75,7022.51,Small,F,(PW# 18) F
+1257,TX,Flood,3603.4,2702.55,2894.97,Small,C,(PW# 19) F
+1239,TX,Severe Storm(s),46882.5,35161.88,35987.02,Large,G,(PW# 121) Not Provided
+3543,LA,Tropical Storm,13091.25,13091.25,13091.25,Small,Z,LCMC Cat Z for EM-3543
+3543,LA,Tropical Storm,8243.09,8243.09,8243.09,Small,Z,Project Managment Costs
+3543,LA,Tropical Storm,2374.65,2374.65,2374.65,Small,Z,Audubon Commission -Management Costs 
+3543,LA,Tropical Storm,1082.58,1082.58,1082.58,Small,Z,City of Baton Rouge Management Cost 
+3543,LA,Tropical Storm,23477.98,21130.18,21130.18,Small,B,2020 TS SALLY CATB 001
+3543,LA,Tropical Storm,2888.95,2888.95,2888.95,Small,Z,EM3543LA Ascension Parish Management Costs
+3543,LA,Tropical Storm,141343.6,141343.6,141343.6,Large,Z,Management Costs for the Entire Disaster to Include All Applicant Obligated Projects as of 10/29/21
+3543,LA,Tropical Storm,61748.1,55573.29,55573.29,Small,B,HCS EAST JEFFERSON LEVEE DISTRICT
+3543,LA,Tropical Storm,469717.69,422745.92,422745.92,Large,B,CAT B Emergency work
+3543,LA,Tropical Storm,23332.91,23332.91,23332.91,Small,Z,CNO-EM-3543
+3543,LA,Tropical Storm,396403.85,356763.47,356763.47,Small,B,PPG EM 3543 Cat B
+3543,LA,Tropical Storm,17277.5,17277.5,17277.5,Small,Z,EM3543LA- Plaquemines Parish Estimated Management Costs for Sally
+3544,MS,Hurricane,60185.54,54166.99,54166.99,Small,B,APP CERT- EPM Fire Dept.
+3544,MS,Hurricane,6252.35,5627.12,5627.12,Small,B,APP CERT- EPM Community Development / Port / Parks / Administrative Dept.
+3544,MS,Hurricane,40480.97,36432.87,36432.87,Small,B,APP CERT - Emergency Protective Measures
+3545,AL,Hurricane,19351.61,17416.45,17416.45,Small,B,Countywide EPM
+3545,AL,Hurricane,8028.26,7225.43,7225.43,Small,B,Russell County Countywide EPM
+3545,AL,Hurricane,401.41,401.41,401.41,Small,Z,Russell County Commission Hurricane Sally Management Costs
+3548,MS,Hurricane,40910.0,36819.0,36819.0,Small,B,Emergency Management Services/EOC
+3551,FL,Hurricane,13721.92,12349.73,12349.73,Small,B,App Cert Manatee County Sheltering Contract
+3551,FL,Hurricane,391.84,391.84,391.84,Small,Z,Pinellas County Management Costs
+3551,FL,Hurricane,6704.73,6704.73,6704.73,Small,Z,Management Costs
+3553,DC,National Special Security Event,203557.35,203557.35,203557.35,Large,B,EM3553DC - HSEMA - EPM
+3553,DC,National Special Security Event,5972403.0,5972403.0,5972403.0,Large,B,Inauguration Security Measures
+3559,NM,Biological,382203.18,382203.18,382203.18,Small,B,PW Food Distribution 1
+3559,NM,Biological,37436.96,37436.96,37436.96,Small,B,PW Sanitization 2021
+3559,NM,Biological,40882.37,40882.37,40882.37,Small,B,PW Checkpoints 2021
+3560,FL,Other,2862682.52,2862682.52,2862682.52,Large,Z,Miami-Dade County Management Costs 
+3560,FL,Other,29349.79,26414.81,26414.81,Small,B,Phase 2: 7/24/21 and beyond - Traffic control equipment restoration
+3560,FL,Other,51990.12,46791.11,46791.11,Small,B,Phase 2: 7/24/21 and beyond - Surfside EPMs
+3560,FL,Other,978229.02,978229.02,978229.02,Large,B,Phase 1: 6/24/21 to 7/23/21 - Mutual Aid
+4434,CA,Severe Storm(s),82688.18,82688.18,82688.18,Small,Z,Estimates Management Costs
+3560,FL,Other,736.94,736.94,736.94,Small,Z,CMB Management Cost
+3560,FL,Other,3107750.28,3107750.28,3107750.28,Large,Z,Management Costs
+3561,FL,Tropical Storm,10157.3,9141.57,9141.57,Small,B,App Self Cert. - EPM; Sheltering
+3561,FL,Tropical Storm,4775.37,4297.83,4297.83,Small,B,EPM - EOC and Sheltering
+3561,FL,Tropical Storm,5866.81,5280.13,5280.13,Small,B,CAT B - Donated Resources
+3564,CT,Tropical Storm,7778.66,7000.79,7000.79,Small,B,HENRI - Emergency Protective Measures - East Haddam CT
+3564,CT,Tropical Storm,13326.17,11993.55,11993.55,Small,B,STORM HENRI NURSING HOME EVACULATION
+3564,CT,Tropical Storm,388.93,388.93,388.93,Small,Z,CAT Z East Haddam
+3564,CT,Tropical Storm,5620.01,5058.01,5058.01,Small,B,Storm Henri
+3577,IL,Severe Storm(s),94920.76,85428.68,85428.68,Small,B,Coles-Moultrie Electric Cooperative - Emergency Protective Measures
+3577,IL,Severe Storm(s),4430.92,4430.92,4430.92,Small,Z,Coles-Moultrie Electric Cooperative Management Costs
+3582,MS,Other,16368.32,12276.24,12276.24,Small,B,EM 3582-MS-Jackson Revival Center Church-EPM
+3582,MS,Other,39160.96,29370.72,29370.72,Small,B,Franciscan Ministries of Our Lady Health System-Water Crisis
+4431,CA,Winter Storm,7276.41,7276.41,7276.41,Small,Z,California Department of Parks and Recreation - mGMT Cost
+3586,NC,Hurricane,12048.6,9036.45,9036.45,Small,B,APP CERT CAT B EPM Brunswick County EOC Enterprise Operations - Utilities
+3586,NC,Hurricane,24269.49,18202.12,18202.12,Small,B,APP CERT City of Lumberton EPM
+3586,NC,Hurricane,31500.47,23625.35,23625.35,Small,B,APP CERT - Category B Columbus EPM 
+3586,NC,Hurricane,28635.97,21476.98,21476.98,Small,B,APP CERT Scotland County EPM
+3586,NC,Hurricane,586.68,586.68,586.68,Small,Z,Cat - Z - North Topsail Beach Management Costs
+3586,NC,Hurricane,19807.79,14855.84,14855.84,Small,B,APP CERT CAT B EPM - Town of Oriental 
+3586,NC,Hurricane,990.39,990.39,990.39,Small,Z,Management Cost
+1239,TX,Severe Storm(s),30964.7,23223.53,23768.51,Large,C,(PW# 129) Not Provided
+1257,TX,Flood,8214.0,6160.5,6535.06,Small,C,(PW# 33) F
+1257,TX,Flood,2023.32,1517.49,1609.76,Small,C,(PW# 36) F
+1257,TX,Flood,1470.0,1102.5,1169.53,Small,C,(PW# 37) F
+1257,TX,Flood,2556.8,1917.6,2034.19,Small,C,(PW# 40) F
+1257,TX,Flood,1259.63,944.72,1002.16,Small,C,(PW# 48) F
+1257,TX,Flood,1776.0,1332.0,1412.98,Small,B,(PW# 55) VB
+1239,TX,Severe Storm(s),2840.0,2130.0,2208.67,Large,C,(PW# 140) Not Provided
+1257,TX,Flood,14271.3,10703.48,11354.25,Small,B,(PW# 64) V
+1257,TX,Flood,3726.0,2794.5,2964.41,Small,C,(PW# 4) F
+1257,TX,Flood,8638.3,6478.73,6872.64,Small,C,(PW# 9) F
+1257,TX,Flood,13920.0,10440.0,11156.66,Small,C,(PW# 21) F
+1257,TX,Flood,4115.76,3086.82,3306.6,Small,F,(PW# 15) F
+1257,TX,Flood,2601.0,1950.75,2089.64,Small,F,(PW# 16) F
+1257,TX,Flood,10316.6,7737.45,8102.67,Small,C,(PW# 24) F
+1257,TX,Flood,2200.0,1650.0,1727.88,Small,F,(PW# 25) F
+1257,TX,Flood,1482.32,1111.74,1179.33,Small,C,(PW# 35) F
+1257,TX,Flood,5186.0,3889.5,4125.98,Small,C,(PW# 38) F
+1257,TX,Flood,1095.3,821.48,871.43,Small,C,(PW# 41) F
+1257,TX,Flood,5960.2,4470.15,4741.94,Small,C,(PW# 44) F
+1257,TX,Flood,3219.3,2414.48,2561.28,Small,C,(PW# 46) F
+1257,TX,Flood,1464.0,1098.0,1164.76,Small,A,(PW# 56) VB
+1257,TX,Flood,10185.0,7638.75,8103.19,Small,F,(PW# 57) V
+1257,TX,Flood,2684.42,2013.32,2156.67,Small,A,(PW# 61) V
+1257,TX,Flood,1608.0,1206.0,1279.32,Small,E,(PW# 63) VB
+1257,TX,Flood,1566.88,1175.16,1228.28,Small,C,(PW# 65) V
+1257,TX,Flood,2386.55,1789.91,1880.12,Small,D,(PW# 67) VB
+1257,TX,Flood,19250.0,14437.5,15090.07,Small,C,(PW# 72) V
+1709,TX,Severe Storm(s),4963.22,3722.42,3890.67,Small,A,(PW# 3902) PA PILOT PROGRAM
+1257,TX,Flood,3547.0,2660.25,2821.99,Small,A,(PW# 76) F
+1257,TX,Flood,17964.6,13473.45,14082.45,Small,C,(PW# 87) VB
+1257,TX,Flood,8489.31,6366.98,6654.76,Small,G,(PW# 89) VB
+1257,TX,Flood,1156.6,867.45,906.66,Small,B,(PW# 90) VB
+1257,TX,Flood,7886.82,5915.12,6213.24,Small,C,(PW# 95) VB
+1257,TX,Flood,4156.82,3117.62,3274.75,Small,C,(PW# 100) VB
+1257,TX,Flood,1150.0,862.5,905.97,Small,C,(PW# 104) F
+1257,TX,Flood,7739.0,5804.25,6096.78,Small,C,(PW# 105) F
+1257,TX,Flood,1494.0,1120.5,1176.98,Small,C,(PW# 108) F
+1257,TX,Flood,750.0,562.5,590.85,Small,E,(PW# 110) Not Provided
+1257,TX,Flood,19177.0,14382.75,15107.64,Small,A,(PW# 111) F
+1257,TX,Flood,5280.0,3960.0,4159.58,Small,C,(PW# 116) F
+1257,TX,Flood,5345.0,4008.75,4210.8,Small,C,(PW# 117) F
+1257,TX,Flood,10242.0,7681.5,8068.65,Small,C,(PW# 119) F
+1257,TX,Flood,12267.08,9200.31,9616.16,Small,F,(PW# 132) V
+1257,TX,Flood,1765.7,1324.28,1384.13,Small,B,(PW# 133) VB
+1257,TX,Flood,21307.0,15980.25,16951.85,Small,C,(PW# 135) V
+1257,TX,Flood,9600.0,7200.0,7637.76,Small,C,(PW# 136) VB
+1257,TX,Flood,7642.24,5731.68,6020.55,Small,B,(PW# 144) V
+1257,TX,Flood,3000.0,2250.0,2363.4,Small,F,(PW# 145) VB
+1257,TX,Flood,1466.0,1099.5,1154.91,Small,C,(PW# 149) VB
+1257,TX,Flood,1000.0,750.0,783.9,Small,F,(PW# 153) VB
+1257,TX,Flood,6017.12,4512.84,4716.82,Small,C,(PW# 154) VB
+1257,TX,Flood,7424.0,5568.0,5906.54,Small,A,(PW# 155) V
+1257,TX,Flood,3188.04,2391.03,2536.4,Small,C,(PW# 158) VB
+1257,TX,Flood,2746.85,2060.14,2157.38,Small,C,(PW# 162) VB
+1257,TX,Flood,3820.92,2865.69,3000.95,Small,E,(PW# 163) VB
+1257,TX,Flood,4460.0,3345.0,3502.88,Small,G,(PW# 170) VB
+1257,TX,Flood,4322.68,3242.01,3405.41,Small,E,(PW# 176) F
+1257,TX,Flood,34437.0,25827.75,27129.47,Small,A,(PW# 177) F
+1257,TX,Flood,4290.0,3217.5,3362.94,Small,C,(PW# 200) VB
+1257,TX,Flood,3185.29,2388.97,2496.96,Small,G,(PW# 203) VB
+1257,TX,Flood,28039.2,21029.4,22274.48,Small,C,(PW# 211) VB
+1257,TX,Flood,5759.5,4319.63,4523.52,Small,C,(PW# 214) VB
+1257,TX,Flood,12038.75,9029.06,9455.24,Small,C,(PW# 223) VB
+1257,TX,Flood,5329.21,3996.91,4185.56,Small,C,(PW# 224) V
+1257,TX,Flood,8275.0,6206.25,6519.05,Small,C,(PW# 1004) V
+1257,TX,Flood,7740.0,5805.0,6097.57,Small,C,(PW# 1012) VB
+1257,TX,Flood,5306.3,3979.73,4126.71,Small,C,(PW# 1015) VB
+1257,TX,Flood,4858.0,3643.5,3778.07,Small,C,(PW# 1017) VB
+1257,TX,Flood,1654.52,1240.89,1286.72,Small,C,(PW# 1019) VB
+1257,TX,Flood,1610.43,1207.82,1252.43,Small,C,(PW# 1021) VB
+1257,TX,Flood,1000.75,750.56,778.28,Small,C,(PW# 1024) VB
+1257,TX,Flood,2035.2,1526.4,1582.78,Small,C,(PW# 1027) VB
+1257,TX,Flood,4512.8,3384.6,3509.6,Small,C,(PW# 1030) VB
+1257,TX,Flood,1605.84,1204.38,1248.87,Small,C,(PW# 1031) VB
+1257,TX,Flood,2276.1,1707.08,1770.13,Small,C,(PW# 1039) VB
+1257,TX,Flood,6000.0,4500.0,4666.2,Small,C,(PW# 1041) VB
+1257,TX,Flood,1800.19,1350.14,1400.01,Small,C,(PW# 1045) VB
+1257,TX,Flood,1826.0,1369.5,1438.52,Small,D,(PW# 1051) VB
+1257,TX,Flood,14027.96,10520.97,10855.54,Small,D,(PW# 1052) VB
+1257,TX,Flood,18568.67,13926.5,14440.85,Small,C,(PW# 1057) VB
+1257,TX,Flood,8083.88,6062.91,6336.95,Small,C,(PW# 1064) V
+1257,TX,Flood,4969.9,3727.43,3895.91,Small,C,(PW# 1065) VB
+1257,TX,Flood,38314.14,28735.61,29649.41,Small,C,(PW# 1070) V
+1257,TX,Flood,4523.71,3392.78,3500.68,Small,C,(PW# 1078) VB
+1257,TX,Flood,5343.31,4007.48,4134.93,Small,C,(PW# 1084) VB
+1257,TX,Flood,5448.94,4086.71,4279.6,Small,C,(PW# 31) F
+1257,TX,Flood,3167.6,2375.7,2520.13,Small,C,(PW# 34) F
+1257,TX,Flood,8132.2,6099.15,6469.98,Small,C,(PW# 39) F
+1257,TX,Flood,3878.12,2908.59,3085.44,Small,C,(PW# 42) F
+1257,TX,Flood,1666.0,1249.5,1325.46,Small,C,(PW# 47) F
+1257,TX,Flood,1352.84,1014.63,1062.55,Small,C,(PW# 49) F
+1257,TX,Flood,9895.0,7421.25,7949.65,Small,C,(PW# 59) V
+1257,TX,Flood,4910.0,3682.5,3906.4,Small,E,(PW# 62) V
+1257,TX,Flood,2000.0,1500.0,1575.6,Small,A,(PW# 73) V
+1257,TX,Flood,1600.0,1200.0,1244.32,Small,C,(PW# 79) F
+1257,TX,Flood,2205.4,1654.05,1715.14,Small,C,(PW# 80) F
+1257,TX,Flood,2377.0,1782.75,1872.6,Small,B,(PW# 82) F
+1257,TX,Flood,1895.0,1421.25,1492.88,Small,A,(PW# 83) F
+1257,TX,Flood,3269.0,2451.75,2600.81,Small,B,(PW# 84) F
+1257,TX,Flood,11444.12,8583.09,8971.04,Small,D,(PW# 86) V
+1257,TX,Flood,13386.82,10040.12,10546.15,Small,C,(PW# 93) VB
+1257,TX,Flood,1519.0,1139.25,1196.67,Small,C,(PW# 106) F
+1257,TX,Flood,3520.0,2640.0,2773.05,Small,C,(PW# 107) F
+1257,TX,Flood,2432.0,1824.0,1915.93,Small,B,(PW# 112) F
+1257,TX,Flood,25045.79,18784.34,19731.07,Small,F,(PW# 123) V
+1257,TX,Flood,16650.84,12488.13,13117.53,Small,G,(PW# 124) V
+1257,TX,Flood,29411.5,22058.63,23170.39,Small,F,(PW# 134) VB
+1257,TX,Flood,2430.0,1822.5,1914.35,Small,C,(PW# 150) VB
+1257,TX,Flood,1099.5,824.63,866.19,Small,C,(PW# 151) VB
+1257,TX,Flood,42141.4,31606.05,33527.69,Small,A,(PW# 156) VB
+1257,TX,Flood,18289.32,13716.99,14449.47,Small,C,(PW# 159) V
+1257,TX,Flood,23912.62,17934.47,18780.97,Small,G,(PW# 165) V
+1257,TX,Flood,3470.04,2602.53,2733.7,Small,B,(PW# 173) V
+1257,TX,Flood,6850.0,5137.5,5396.43,Small,G,(PW# 178) F
+1257,TX,Flood,9335.0,7001.25,7354.11,Small,C,(PW# 179) F
+1257,TX,Flood,8703.75,6527.81,6822.87,Small,C,(PW# 180) F
+1257,TX,Flood,1880.0,1410.0,1481.07,Small,B,(PW# 183) F
+1257,TX,Flood,21798.62,16348.97,17172.95,Small,A,(PW# 184) F
+1257,TX,Flood,8381.56,6286.17,6603.0,Small,B,(PW# 185) F
+1239,TX,Severe Storm(s),9343.0,7007.25,7266.06,Large,B,(PW# 145) Not Provided
+1257,TX,Flood,1434.0,1075.5,1129.7,Small,F,(PW# 187) F
+1257,TX,Flood,1751.0,1313.25,1379.44,Small,E,(PW# 189) F
+1257,TX,Flood,3814.47,2860.85,3005.04,Small,A,(PW# 192) F
+1257,TX,Flood,9636.26,7227.2,7553.88,Small,B,(PW# 197) F
+1257,TX,Flood,2833.6,2125.2,2254.42,Small,C,(PW# 208) VB
+1257,TX,Flood,4067.0,3050.25,3147.25,Small,C,(PW# 209) VB
+1257,TX,Flood,20329.4,15247.05,15966.71,Small,C,(PW# 213) VB
+1257,TX,Flood,2741.3,2055.98,2153.02,Small,C,(PW# 221) VB
+1257,TX,Flood,5779.2,4334.4,4538.98,Small,C,(PW# 222) VB
+1257,TX,Flood,25894.4,19420.8,20337.46,Small,C,(PW# 226) VB
+1257,TX,Flood,1106.0,829.5,868.66,Small,C,(PW# 232) VB
+1257,TX,Flood,7284.2,5463.15,5738.49,Small,C,(PW# 1005) V
+1257,TX,Flood,9454.8,7091.1,7448.49,Small,C,(PW# 1009) V
+1257,TX,Flood,2851.42,2138.57,2246.36,Small,C,(PW# 1011) VB
+1257,TX,Flood,4070.0,3052.5,3190.71,Small,C,(PW# 1013) VB
+1257,TX,Flood,4049.6,3037.2,3149.38,Small,C,(PW# 1014) VB
+1257,TX,Flood,7277.7,5458.28,5659.87,Small,C,(PW# 1016) VB
+1257,TX,Flood,2354.0,1765.5,1830.7,Small,C,(PW# 1028) VB
+1257,TX,Flood,1874.97,1406.23,1458.17,Small,C,(PW# 1033) VB
+1257,TX,Flood,2700.0,2025.0,2099.79,Small,C,(PW# 1035) VB
+1257,TX,Flood,1670.0,1252.5,1298.76,Small,C,(PW# 1036) VB
+1257,TX,Flood,1449.7,1087.28,1127.44,Small,C,(PW# 1040) VB
+1257,TX,Flood,1235.05,926.29,960.5,Small,C,(PW# 1043) VB
+1257,TX,Flood,8394.17,6295.63,6612.93,Small,C,(PW# 1049) V
+1257,TX,Flood,22070.76,16553.07,17379.7,Small,C,(PW# 1054) VB
+1257,TX,Flood,16533.16,12399.87,12794.18,Small,C,(PW# 1056) VB
+1257,TX,Flood,4094.44,3070.83,3225.59,Small,B,(PW# 1059) F
+1257,TX,Flood,10834.33,8125.75,8493.03,Small,E,(PW# 1060) F
+4336,PR,Hurricane,45752.04,34314.03,34314.03,Small,B,IORO003-EMERGENCY WORK 
+1257,TX,Flood,19093.04,14319.78,14775.15,Small,C,(PW# 1071) VB
+1257,TX,Flood,31276.44,23457.33,24203.27,Small,C,(PW# 1076) VB
+1257,TX,Flood,6902.02,5176.52,5341.13,Small,C,(PW# 1077) VB
+1257,TX,Flood,4906.7,3680.03,3797.06,Small,C,(PW# 1081) VB
+1257,TX,Flood,8128.7,6096.53,6290.39,Small,C,(PW# 1083) VB
+4085,NY,Hurricane,136941.43,123247.29,123247.29,Large,B,(PW# 3529) NYC0102 Mayor's Office Donated Services
+1257,TX,Flood,10716.88,8037.66,8293.26,Small,B,(PW# 1089) VB
+1257,TX,Flood,2814.78,2111.09,2206.51,Small,G,(PW# 1100) V
+1709,TX,Severe Storm(s),3527.05,2645.29,2729.41,Small,C,(PW# 3903) ROADS AND BRIDGES
+1257,TX,Flood,75676.93,56757.7,59323.15,Large,B,(PW# 1110) L
+1257,TX,Flood,4580.0,3435.0,3608.13,Small,C,(PW# 66) VB
+1257,TX,Flood,1897.0,1422.75,1494.46,Small,C,(PW# 69) VB
+1257,TX,Flood,4798.5,3598.88,3780.26,Small,C,(PW# 70) VB
+1257,TX,Flood,18900.0,14175.0,14815.71,Small,C,(PW# 71) VB
+1257,TX,Flood,12928.0,9696.0,10054.11,Small,B,(PW# 81) F
+1257,TX,Flood,4909.0,3681.75,3905.61,Small,C,(PW# 85) F
+1257,TX,Flood,6616.82,4962.62,5212.74,Small,C,(PW# 97) VB
+1257,TX,Flood,5561.71,4171.28,4381.52,Small,C,(PW# 98) V
+1257,TX,Flood,2960.0,2220.0,2318.8,Small,C,(PW# 109) F
+1257,TX,Flood,3762.0,2821.5,2949.03,Small,B,(PW# 114) F
+1257,TX,Flood,4323.0,3242.25,3405.66,Small,B,(PW# 115) F
+1257,TX,Flood,5380.0,4035.0,4238.36,Small,C,(PW# 118) F
+1257,TX,Flood,4818.0,3613.5,3795.62,Small,A,(PW# 125) V
+1709,TX,Severe Storm(s),31131.42,23348.57,24091.06,Small,A,(PW# 3904) PA PILOT PROGRAM
+1257,TX,Flood,12886.42,9664.82,10101.66,Small,B,(PW# 129) VB
+1239,TX,Severe Storm(s),12461.0,9345.75,9690.92,Large,G,(PW# 148) Not Provided
+1257,TX,Flood,45000.0,33750.0,35451.0,Small,F,(PW# 131) V
+1257,TX,Flood,31932.0,23949.0,25031.49,Small,C,(PW# 139) V
+1257,TX,Flood,11852.42,8889.32,9291.11,Small,B,(PW# 142) F
+1257,TX,Flood,1082.0,811.5,852.4,Small,C,(PW# 148) VB
+1257,TX,Flood,16748.2,12561.15,13154.03,Small,G,(PW# 167) V
+1257,TX,Flood,8138.5,6103.88,6391.99,Small,G,(PW# 168) V
+1257,TX,Flood,11561.77,8671.33,9108.36,Small,B,(PW# 172) V
+1257,TX,Flood,13972.53,10479.4,11007.56,Small,B,(PW# 174) V
+1257,TX,Flood,6686.75,5015.06,5267.81,Small,B,(PW# 181) F
+1257,TX,Flood,2191.95,1643.96,1726.81,Small,B,(PW# 190) F
+1257,TX,Flood,3966.8,2975.1,3125.05,Small,E,(PW# 193) F
+1257,TX,Flood,9049.74,6787.31,7129.39,Small,G,(PW# 194) F
+1257,TX,Flood,6000.0,4500.0,4703.4,Small,C,(PW# 198) VB
+1257,TX,Flood,2355.66,1766.75,1846.6,Small,B,(PW# 202) V
+1257,TX,Flood,18375.0,13781.25,14619.15,Small,C,(PW# 204) V
+1257,TX,Flood,11473.0,8604.75,9127.92,Small,C,(PW# 205) V
+1257,TX,Flood,18341.4,13756.05,14592.42,Small,C,(PW# 206) VB
+1257,TX,Flood,5696.6,4272.45,4532.21,Small,C,(PW# 207) VB
+1257,TX,Flood,18526.2,13894.65,14739.44,Small,C,(PW# 210) VB
+1257,TX,Flood,11424.0,8568.0,8972.41,Small,C,(PW# 212) VB
+1257,TX,Flood,3299.68,2474.76,2591.57,Small,C,(PW# 216) VB
+1257,TX,Flood,32134.25,24100.69,25238.25,Small,C,(PW# 217) V
+1257,TX,Flood,13173.22,9879.92,10346.26,Small,C,(PW# 219) VB
+1257,TX,Flood,14391.9,10793.93,11303.41,Small,C,(PW# 225) VB
+1257,TX,Flood,3951.0,2963.25,3097.19,Small,B,(PW# 229) F
+1257,TX,Flood,36291.12,27218.34,28448.61,Small,E,(PW# 1000) V
+1257,TX,Flood,1516.0,1137.0,1194.3,Small,B,(PW# 1001) V
+1257,TX,Flood,20666.8,15500.1,16281.3,Small,C,(PW# 1002) V
+1257,TX,Flood,4453.6,3340.2,3508.55,Small,C,(PW# 1006) V
+1257,TX,Flood,8658.5,6493.88,6821.18,Small,C,(PW# 1008) V
+1257,TX,Flood,1564.79,1173.59,1216.94,Small,C,(PW# 1020) VB
+1257,TX,Flood,2184.92,1638.69,1699.21,Small,C,(PW# 1022) VB
+1257,TX,Flood,2386.08,1789.56,1855.65,Small,C,(PW# 1025) VB
+1257,TX,Flood,1106.1,829.58,860.21,Small,C,(PW# 1037) VB
+1257,TX,Flood,1061.1,795.83,825.22,Small,C,(PW# 1042) VB
+1257,TX,Flood,22036.0,16527.0,17359.96,Small,C,(PW# 1046) V
+1257,TX,Flood,37392.0,28044.0,29457.42,Small,C,(PW# 1048) V
+3586,NC,Hurricane,90280.79,67710.59,67710.59,Small,B,APP CERT - Emergency Protective Measures
+1257,TX,Flood,18937.65,14203.24,14727.82,Small,C,(PW# 1055) VB
+1257,TX,Flood,10900.0,8175.0,8476.93,Small,C,(PW# 1058) VB
+1257,TX,Flood,26527.66,19895.75,20795.04,Small,E,(PW# 1061) F
+1257,TX,Flood,2177.87,1633.4,1707.23,Small,B,(PW# 1062) VB
+1257,TX,Flood,35948.33,26961.25,28179.9,Small,C,(PW# 1063) VB
+1257,TX,Flood,12431.03,9323.27,9744.68,Small,C,(PW# 1067) VB
+1257,TX,Flood,6428.76,4821.57,4974.89,Small,C,(PW# 1079) VB
+1257,TX,Flood,9437.04,7077.78,7302.85,Small,C,(PW# 1080) V
+1257,TX,Flood,22993.94,17245.46,17793.87,Small,C,(PW# 1087) V
+1257,TX,Flood,14011.72,10508.79,10842.97,Small,B,(PW# 1090) VB
+1257,TX,Flood,2107.79,1580.84,1631.11,Small,C,(PW# 1093) VB
+1257,TX,Flood,2015.0,1511.25,1579.56,Small,F,(PW# 1096) V
+1239,TX,Severe Storm(s),57749.06,43311.79,45000.32,Large,G,(PW# 151) L
+1257,TX,Flood,9251.0,6938.25,7251.86,Small,E,(PW# 1107) F SUSPEND-INSURANCE
+1257,TX,Flood,332724.0,249543.0,257478.46,Large,B,(PW# 1112) L
+1257,TX,Flood,8849.2,6636.9,6936.89,Small,C,(PW# 1115) VB
+1257,TX,Flood,2785.37,2089.03,2183.45,Small,C,(PW# 1118) VB
+1257,TX,Flood,3363.97,2522.98,2603.21,Small,C,(PW# 1123) VB
+1257,TX,Flood,8937.12,6702.84,6915.98,Small,C,(PW# 1131) VB
+1257,TX,Flood,14258.54,10693.91,11033.98,Small,C,(PW# 1135) V
+1239,TX,Severe Storm(s),10635.0,7976.25,8270.84,Large,G,(PW# 152) Not Provided
+1257,TX,Flood,1496.89,1122.67,1190.93,Small,E,(PW# 29) Not Provided
+1257,TX,Flood,2281.1,1710.83,1791.58,Small,C,(PW# 32) F
+1257,TX,Flood,2418.1,1813.58,1923.84,Small,C,(PW# 43) F
+1257,TX,Flood,1269.0,951.75,1009.61,Small,C,(PW# 45) F
+1257,TX,Flood,1844.78,1383.59,1448.89,Small,C,(PW# 50) F
+1257,TX,Flood,9970.8,7478.1,7854.99,Small,F,(PW# 52) V
+1239,TX,Severe Storm(s),60563.08,45422.31,47236.24,Large,C,(PW# 157) L
+1257,TX,Flood,3084.96,2313.72,2478.45,Small,C,(PW# 60) V
+1257,TX,Flood,2750.0,2062.5,2166.45,Small,D,(PW# 68) VB
+1257,TX,Flood,1463.5,1097.63,1152.95,Small,C,(PW# 75) VB
+1257,TX,Flood,12071.0,9053.25,9603.69,Small,B,(PW# 77) F
+1257,TX,Flood,1811.7,1358.78,1408.96,Small,C,(PW# 78) F
+1257,TX,Flood,9378.0,7033.5,7351.42,Small,A,(PW# 88) VB
+1257,TX,Flood,7550.0,5662.5,5918.45,Small,C,(PW# 91) VB
+1257,TX,Flood,2579.15,1934.36,2031.84,Small,C,(PW# 92) V
+1257,TX,Flood,13386.82,10040.12,10546.14,Small,C,(PW# 94) VB
+1257,TX,Flood,12198.53,9148.9,9610.0,Small,C,(PW# 96) VB
+1257,TX,Flood,4530.04,3397.53,3568.76,Small,C,(PW# 99) VB
+1257,TX,Flood,4683.41,3512.56,3689.59,Small,C,(PW# 101) VB
+1257,TX,Flood,6108.54,4581.41,4812.31,Small,C,(PW# 102) VB
+1257,TX,Flood,1818.54,1363.91,1432.66,Small,C,(PW# 103) V
+1257,TX,Flood,15070.0,11302.5,11872.14,Small,C,(PW# 120) F
+1257,TX,Flood,8208.0,6156.0,6466.27,Small,C,(PW# 121) F
+1257,TX,Flood,2310.18,1732.64,1819.97,Small,B,(PW# 122) V
+1257,TX,Flood,13560.66,10170.5,10683.1,Small,C,(PW# 126) V
+1257,TX,Flood,18155.62,13616.72,14303.0,Small,B,(PW# 127) VB
+1257,TX,Flood,17485.03,13113.77,13706.52,Small,B,(PW# 128) V
+1257,TX,Flood,12040.0,9030.0,9579.03,Small,C,(PW# 137) VB
+1257,TX,Flood,1621.3,1215.98,1277.27,Small,C,(PW# 138) VB
+1257,TX,Flood,3320.0,2490.0,2615.5,Small,A,(PW# 146) V
+1257,TX,Flood,2475.0,1856.25,1949.81,Small,C,(PW# 147) VB
+1257,TX,Flood,9768.56,7326.42,7657.58,Small,B,(PW# 152) V
+1257,TX,Flood,24638.84,18479.13,19602.67,Small,C,(PW# 157) V
+1257,TX,Flood,11306.18,8479.64,8879.87,Small,C,(PW# 160) VB
+3586,NC,Hurricane,24417.98,18313.49,18313.49,Small,B,APP CERT - Emergency Protective Measures
+1257,TX,Flood,3489.02,2616.77,2740.29,Small,F,(PW# 164) VB
+1257,TX,Flood,7081.9,5311.43,5562.13,Small,G,(PW# 166) VB
+1257,TX,Flood,18278.65,13708.99,14356.06,Small,G,(PW# 169) VB
+1257,TX,Flood,6990.12,5242.59,5490.04,Small,G,(PW# 171) VB
+1257,TX,Flood,5499.0,4124.25,4332.11,Small,E,(PW# 175) F
+1257,TX,Flood,1313.95,985.46,1035.13,Small,C,(PW# 182) F
+1257,TX,Flood,6575.0,4931.25,5179.79,Small,B,(PW# 188) F
+1257,TX,Flood,11219.29,8414.47,8838.56,Small,B,(PW# 191) F
+1257,TX,Flood,8500.0,6375.0,6663.15,Small,E,(PW# 195) F
+1257,TX,Flood,28915.0,21686.25,22779.24,Small,B,(PW# 196) F
+1257,TX,Flood,1410.0,1057.5,1105.29,Small,C,(PW# 199) VB
+1257,TX,Flood,24190.0,18142.5,18998.82,Small,C,(PW# 215) VB
+1257,TX,Flood,1867.33,1400.5,1466.59,Small,C,(PW# 218) VB
+1257,TX,Flood,12682.2,9511.65,9960.6,Small,C,(PW# 220) V
+1257,TX,Flood,17167.2,12875.4,13483.11,Small,C,(PW# 227) VB
+1257,TX,Flood,1910.8,1433.1,1497.88,Small,B,(PW# 233) F
+1257,TX,Flood,12357.25,9267.94,9686.85,Small,B,(PW# 234) F
+1257,TX,Flood,7540.0,5655.0,5940.01,Small,C,(PW# 1003) V
+1257,TX,Flood,18695.21,14021.41,14728.08,Small,B,(PW# 1007) V
+1257,TX,Flood,1858.0,1393.5,1463.73,Small,C,(PW# 1010) V
+1257,TX,Flood,7018.5,5263.88,5458.29,Small,C,(PW# 1018) VB
+1257,TX,Flood,3110.0,2332.5,2418.65,Small,C,(PW# 1023) VB
+1257,TX,Flood,3625.2,2718.9,2819.32,Small,C,(PW# 1026) VB
+1257,TX,Flood,2700.4,2025.3,2100.1,Small,C,(PW# 1029) VB
+1257,TX,Flood,1719.1,1289.33,1336.94,Small,C,(PW# 1032) VB
+1257,TX,Flood,2669.7,2002.28,2076.24,Small,C,(PW# 1034) VB
+1257,TX,Flood,1111.1,833.33,864.11,Small,C,(PW# 1038) VB
+1257,TX,Flood,1489.19,1116.89,1158.14,Small,C,(PW# 1044) VB
+1257,TX,Flood,6586.79,4940.09,5189.07,Small,C,(PW# 1047) VB
+1257,TX,Flood,2450.9,1838.18,1930.83,Small,D,(PW# 1053) VB
+1257,TX,Flood,11706.97,8780.23,9177.1,Small,C,(PW# 1068) VB
+1257,TX,Flood,25393.69,19045.27,19748.79,Small,C,(PW# 1069) V
+1257,TX,Flood,34637.4,25978.05,26804.15,Small,C,(PW# 1072) VB
+1257,TX,Flood,21140.13,15855.1,16359.29,Small,C,(PW# 1073) VB
+1257,TX,Flood,2525.59,1894.19,1954.42,Small,C,(PW# 1074) VB
+1257,TX,Flood,7211.12,5408.34,5580.33,Small,C,(PW# 1075) VB
+1257,TX,Flood,6668.98,5001.74,5160.8,Small,C,(PW# 1082) V
+1257,TX,Flood,1064.65,798.49,823.87,Small,C,(PW# 1085) VB
+1257,TX,Flood,14980.59,11235.44,11592.73,Small,C,(PW# 1086) VB
+1257,TX,Flood,17112.9,12834.68,13242.82,Small,C,(PW# 1094) VB
+1257,TX,Flood,2304.09,1728.07,1806.18,Small,B,(PW# 1095) V
+1257,TX,Flood,3112.63,2334.47,2439.99,Small,B,(PW# 1097) V
+1257,TX,Flood,7160.0,5370.0,5640.64,Small,A,(PW# 1106) F
+1257,TX,Flood,14611.57,10958.68,11454.02,Small,C,(PW# 1117) V
+1257,TX,Flood,9030.29,6772.72,6988.09,Small,C,(PW# 1121) VB
+1257,TX,Flood,13701.43,10276.07,10602.85,Small,C,(PW# 1122) VB
+1257,TX,Flood,4261.11,3195.83,3297.46,Small,C,(PW# 1125) VB
+1257,TX,Flood,11827.52,8870.64,9152.72,Small,C,(PW# 1126) VB
+1257,TX,Flood,6334.8,4751.1,4902.19,Small,C,(PW# 1128) VB
+1257,TX,Flood,44238.19,33178.64,34233.71,Small,C,(PW# 1129) V
+1257,TX,Flood,37860.1,28395.08,29298.06,Small,C,(PW# 1130) VB
+1257,TX,Flood,7774.44,5830.83,6016.25,Small,C,(PW# 1136) VB
+1257,TX,Flood,11526.06,8644.55,8919.44,Small,C,(PW# 1150) VB
+1257,TX,Flood,2348.0,1761.0,1817.0,Small,C,(PW# 1158) VB
+1257,TX,Flood,38427.0,28820.25,30122.93,Small,B,(PW# 1164) VB
+1257,TX,Flood,10157.8,7618.35,7860.62,Small,C,(PW# 1196) VB
+1257,TX,Flood,1432.58,1074.44,1108.61,Small,C,(PW# 1201) VB
+1257,TX,Flood,3013.98,2260.49,2332.37,Small,C,(PW# 1208) VB
+1257,TX,Flood,56421.28,42315.96,43661.61,Large,B,(PW# 1211) L
+1239,TX,Severe Storm(s),2350.0,1762.5,1851.33,Large,C,(PW# 162) Not Provided
+1257,TX,Flood,1063.68,797.76,833.82,Small,G,(PW# 1224) F
+1257,TX,Flood,7176.4,5382.3,5625.58,Small,C,(PW# 1234) F
+1257,TX,Flood,7360.46,5520.35,5769.88,Small,A,(PW# 1240) V
+1257,TX,Flood,5327.85,3995.89,4176.51,Small,B,(PW# 1243) V
+1257,TX,Flood,11550.0,8662.5,8937.97,Small,C,(PW# 1260) VB
+1257,TX,Flood,2200.0,1650.0,1724.58,Small,C,(PW# 1263) VB
+1257,TX,Flood,8191.31,6143.48,6338.84,Small,C,(PW# 1267) VB
+1257,TX,Flood,9085.0,6813.75,7030.43,Small,G,(PW# 1273) VB
+1257,TX,Flood,2400.0,1800.0,1857.24,Small,G,(PW# 1275) VB
+1257,TX,Flood,36768.0,27576.0,28452.92,Small,G,(PW# 1276) VB
+1257,TX,Flood,9320.0,6990.0,7212.28,Small,G,(PW# 1277) VB
+1257,TX,Flood,3127.0,2345.25,2451.26,Small,E,(PW# 1284) VB
+1257,TX,Flood,42105.76,31579.32,32583.55,Small,E,(PW# 1287) V
+1257,TX,Flood,8602.0,6451.5,6656.65,Small,E,(PW# 1292) VB
+1257,TX,Flood,7994.2,5995.65,6266.66,Small,C,(PW# 1295) V
+1257,TX,Flood,6890.8,5168.1,5401.7,Small,C,(PW# 1298) F
+1257,TX,Flood,20030.0,15022.5,15658.8,Small,C,(PW# 1300) F
+1257,TX,Flood,17161.0,12870.75,13280.04,Small,G,(PW# 1301) F
+1257,TX,Flood,44403.51,33302.63,34807.92,Small,A,(PW# 1303) F
+1239,TX,Severe Storm(s),26990.0,20242.5,20990.13,Large,C,(PW# 165) Not Provided
+1257,TX,Flood,276729.0,207546.75,214146.74,Large,B,(PW# 1308) L
+1257,TX,Flood,90378.0,67783.5,69030.72,Large,B,(PW# 1310) L
+1239,TX,Severe Storm(s),14670.0,11002.5,11408.86,Large,C,(PW# 170) Not Provided
+1239,TX,Severe Storm(s),4110.0,3082.5,3196.35,Large,C,(PW# 172) Not Provided
+1239,TX,Severe Storm(s),3520.0,2640.0,2737.51,Large,C,(PW# 187) Not Provided
+1257,TX,Flood,27145.19,20358.89,20733.49,Small,F,(PW# 1318) V
+1257,TX,Flood,19688.0,14766.0,15037.69,Small,G,(PW# 1319) VB
+1257,TX,Flood,13500.0,10125.0,10311.3,Small,E,(PW# 1322) VB
+1257,TX,Flood,2000.0,1500.0,1527.6,Small,E,(PW# 1323) VB
+1257,TX,Flood,39100.0,29325.0,29864.58,Small,D,(PW# 1328) VB
+1257,TX,Flood,7500.0,5625.0,5728.5,Small,E,(PW# 1329) VB
+1257,TX,Flood,5141.95,3856.46,3927.42,Small,G,(PW# 1334) VB
+1257,TX,Flood,4920.73,3690.55,3758.45,Small,G,(PW# 1335) VB
+1257,TX,Flood,11695.74,8771.81,8933.21,Small,G,(PW# 1338) VB
+1257,TX,Flood,12453.88,9340.41,9512.27,Small,G,(PW# 1340) VB
+1257,TX,Flood,4020.7,3015.53,3071.02,Small,G,(PW# 1341) VB
+1257,TX,Flood,2003.86,1502.9,1530.56,Small,G,(PW# 1343) VB
+1257,TX,Flood,9475.0,7106.25,7237.01,Small,G,(PW# 1350) VB
+1257,TX,Flood,333478.49,250108.87,258062.33,Large,A,(PW# 1356) L
+1257,TX,Flood,30890.84,23168.13,24215.34,Small,C,(PW# 1357) F
+1257,TX,Flood,2540.0,1905.0,1965.57,Small,A,(PW# 1360) F
+1257,TX,Flood,8113.5,6085.13,6278.64,Small,D,(PW# 1366) F
+1239,TX,Severe Storm(s),5000.0,3750.0,3938.99,Large,E,(PW# 202) Not Provided
+1257,TX,Flood,240776.38,180582.29,186324.81,Large,E,(PW# 1371) FINAL COSTS OF ELECTRICAL AND ADA CODE REQUIREMENTS
+1257,TX,Flood,55333.0,41499.75,42263.34,Large,G,(PW# 1378) DAMAGES TO RUNNING TRACK
+1257,TX,Flood,20900.37,15675.28,16173.76,Small,F,(PW# 1385) F
+1257,TX,Flood,14895.0,11171.25,11526.49,Small,C,(PW# 1389) F
+1257,TX,Flood,33433.0,25074.75,25536.13,Small,E,(PW# 1391) F  SUSPENDED FOR INSURANCE
+1239,TX,Severe Storm(s),39013.92,29260.44,30735.17,Large,C,(PW# 206) Not Provided
+1257,TX,Flood,9440.0,7080.0,7400.01,Small,A,(PW# 1394) F
+1257,TX,Flood,1520.02,1140.02,1191.54,Small,F,(PW# 1397) F
+1257,TX,Flood,750.0,562.5,580.39,Small,E,(PW# 1401) F
+1257,TX,Flood,367767.0,275825.25,285601.5,Large,B,(PW# 1111) L
+1257,TX,Flood,57890.81,43418.11,45380.6,Large,C,(PW# 1114) L
+1257,TX,Flood,15295.04,11471.28,11836.07,Small,C,(PW# 1124) VB
+1257,TX,Flood,22440.72,16830.54,17365.75,Small,C,(PW# 1127) V
+1257,TX,Flood,5062.7,3797.03,3917.78,Small,C,(PW# 1132) VB
+1257,TX,Flood,5620.45,4215.34,4349.39,Small,C,(PW# 1138) V
+1257,TX,Flood,7830.85,5873.14,6059.91,Small,C,(PW# 1139) VB
+1257,TX,Flood,11344.8,8508.6,8779.18,Small,C,(PW# 1140) VB
+1257,TX,Flood,4640.8,3480.6,3591.28,Small,C,(PW# 1141) VB
+1257,TX,Flood,8094.4,6070.8,6263.86,Small,C,(PW# 1143) VB
+1257,TX,Flood,28184.67,21138.5,21810.7,Small,C,(PW# 1148) VB
+1257,TX,Flood,2048.92,1536.69,1585.56,Small,C,(PW# 1149) VB
+1257,TX,Flood,1548.0,1161.0,1197.92,Small,C,(PW# 1152) VB
+1257,TX,Flood,2766.02,2074.52,2140.49,Small,C,(PW# 1153) VB
+1257,TX,Flood,2906.52,2179.89,2249.21,Small,C,(PW# 1154) VB
+1257,TX,Flood,5761.98,4321.49,4458.91,Small,C,(PW# 1155) VB
+1257,TX,Flood,1476.38,1107.29,1142.51,Small,C,(PW# 1156) VB
+1257,TX,Flood,4725.9,3544.43,3657.15,Small,B,(PW# 1162) VB
+1257,TX,Flood,25011.0,18758.25,19606.12,Small,A,(PW# 1165) V
+1257,TX,Flood,1430.0,1072.5,1115.81,Small,B,(PW# 1173) V
+1257,TX,Flood,1525.27,1143.95,1180.34,Small,A,(PW# 1181) VB
+1257,TX,Flood,12321.0,9240.75,9534.61,Small,B,(PW# 1186) V
+1709,TX,Severe Storm(s),1030.57,772.93,797.5,Small,C,(PW# 3908) ROADS AND BRIDGES
+1257,TX,Flood,6627.61,4970.71,5128.77,Small,C,(PW# 1198) VB
+1257,TX,Flood,3446.5,2584.88,2667.08,Small,C,(PW# 1199) VB
+1257,TX,Flood,25799.15,19349.36,19964.66,Small,C,(PW# 1200) VB
+1257,TX,Flood,4918.02,3688.52,3805.81,Small,C,(PW# 1202) VB
+1257,TX,Flood,5065.42,3799.07,3919.89,Small,C,(PW# 1203) VB
+1257,TX,Flood,9945.7,7459.28,7696.48,Small,C,(PW# 1204) VB
+1257,TX,Flood,11130.75,8348.06,8613.54,Small,C,(PW# 1206) VB
+1257,TX,Flood,1500.0,1125.0,1160.77,Small,E,(PW# 1214) F
+1257,TX,Flood,47215.83,35411.87,37012.48,Small,B,(PW# 1215) V
+1257,TX,Flood,1575.0,1181.25,1234.64,Small,E,(PW# 1217) F
+1257,TX,Flood,1340.0,1005.0,1050.43,Small,E,(PW# 1218) F
+1257,TX,Flood,1553.91,1165.43,1218.11,Small,E,(PW# 1223) F
+1257,TX,Flood,1579.5,1184.63,1238.17,Small,G,(PW# 1225) F
+1257,TX,Flood,10113.5,7585.13,7927.98,Small,G,(PW# 1227) F
+1257,TX,Flood,40406.54,30304.91,31314.51,Small,B,(PW# 1245) V
+1257,TX,Flood,36582.0,27436.5,28308.98,Small,A,(PW# 1248) V
+1257,TX,Flood,2793.06,2094.8,2161.42,Small,A,(PW# 1253) VB
+1257,TX,Flood,5519.56,4139.67,4271.31,Small,B,(PW# 1258) VB
+1257,TX,Flood,43370.99,32528.24,33562.64,Small,B,(PW# 1259) VB
+1257,TX,Flood,7318.35,5488.76,5663.3,Small,D,(PW# 1270) VB
+1239,TX,Severe Storm(s),54090.18,40567.64,42214.66,Large,C,(PW# 208) Not Provided
+1257,TX,Flood,10831.61,8123.71,8382.05,Small,F,(PW# 1272) VB
+1257,TX,Flood,64288.13,48216.1,49749.37,Large,A,(PW# 1278) L
+1257,TX,Flood,3000.0,2250.0,2351.7,Small,E,(PW# 1285) VB
+1257,TX,Flood,14077.0,10557.75,10893.49,Small,E,(PW# 1293) VB SUSPENDED-INSURANCE
+1257,TX,Flood,19634.0,14725.5,15391.09,Small,B,(PW# 1294) F
+1257,TX,Flood,31703.0,23777.25,24851.98,Small,A,(PW# 1297) F
+1257,TX,Flood,6318.49,4738.87,4953.06,Small,B,(PW# 1304) F
+1239,TX,Severe Storm(s),13190.75,9893.06,10258.43,Large,C,(PW# 215) Not Provided
+1257,TX,Flood,4855.36,3641.52,3708.52,Small,B,(PW# 1316) V
+1257,TX,Flood,20175.14,15131.36,15409.79,Small,F,(PW# 1317) VB
+1257,TX,Flood,2000.0,1500.0,1527.6,Small,E,(PW# 1327) VB
+1257,TX,Flood,16920.0,12690.0,12923.5,Small,G,(PW# 1331) VB
+1257,TX,Flood,7762.44,5821.83,5928.95,Small,G,(PW# 1333) VB
+1257,TX,Flood,21528.13,16146.1,16443.19,Small,G,(PW# 1337) VB
+1257,TX,Flood,5099.61,3824.71,3895.08,Small,G,(PW# 1342) VB
+1257,TX,Flood,26600.12,19950.09,20317.17,Small,G,(PW# 1345) VB
+1257,TX,Flood,16250.0,12187.5,12411.75,Small,C,(PW# 1346) VB
+1257,TX,Flood,1000.0,750.0,763.8,Small,E,(PW# 1348) VB
+1257,TX,Flood,56527.05,42395.29,44244.64,Large,B,(PW# 1354) L
+1239,TX,Severe Storm(s),12935.36,9701.52,10059.83,Large,C,(PW# 219) Not Provided
+1257,TX,Flood,84769.0,63576.75,63894.64,Large,Z,(PW# 1368) STATE MANAGEMENT EXPENSES
+1257,TX,Flood,68037.0,51027.75,52650.43,Large,E,(PW# 1370) COST TO MOVE SPECIAL SERVICES
+1257,TX,Flood,104004.16,78003.12,79993.97,Large,E,"(PW# 1373) FINAL COSTS, MAIN CLASSROOM BUILDING"
+1257,TX,Flood,37900.0,28425.0,28948.02,Small,E,(PW# 1376) FINAL GYM BASEMENT COSTS
+1257,TX,Flood,86266.03,64699.52,67623.94,Large,B,(PW# 1379) L
+1257,TX,Flood,11865.4,8899.05,9301.28,Small,C,(PW# 1380) F
+1257,TX,Flood,14501.0,10875.75,11075.86,Small,E,(PW# 1384) F
+1239,TX,Severe Storm(s),1604.0,1203.0,1247.43,Large,C,(PW# 221) Not Provided
+1257,TX,Flood,11400.8,8550.6,8822.5,Small,C,(PW# 1137) VB
+1257,TX,Flood,7114.76,5336.07,5505.75,Small,C,(PW# 1144) V
+1257,TX,Flood,5778.18,4333.64,4471.45,Small,C,(PW# 1146) VB
+1257,TX,Flood,2048.97,1536.73,1585.59,Small,C,(PW# 1157) VB
+1257,TX,Flood,25744.0,19308.0,19922.0,Small,C,(PW# 1159) V
+1257,TX,Flood,1912.8,1434.6,1480.21,Small,C,(PW# 1160) VB
+1257,TX,Flood,8135.6,6101.7,6295.73,Small,B,(PW# 1163) V
+1257,TX,Flood,19075.0,14306.25,14952.89,Small,A,(PW# 1167) VB
+1257,TX,Flood,1164.0,873.0,900.76,Small,B,(PW# 1175) V
+1257,TX,Flood,3219.0,2414.25,2491.02,Small,B,(PW# 1179) V
+1257,TX,Flood,1206.0,904.5,933.26,Small,B,(PW# 1183) VB
+1257,TX,Flood,19771.0,14828.25,15299.79,Small,B,(PW# 1188) VB
+1257,TX,Flood,2284.5,1713.38,1790.83,Small,E,(PW# 1189) F
+1257,TX,Flood,8450.0,6337.5,6539.03,Small,C,(PW# 1193) V
+1257,TX,Flood,1455.0,1091.25,1125.95,Small,C,(PW# 1197) VB
+1257,TX,Flood,33625.0,25218.75,26020.7,Small,C,(PW# 1205) VB
+1257,TX,Flood,2361.0,1770.75,1827.06,Small,C,(PW# 1210) VB
+1257,TX,Flood,687.0,515.25,538.54,Small,B,(PW# 1219) F
+1239,TX,Severe Storm(s),30700.0,23025.0,24185.46,Large,B,(PW# 228) Not Provided
+1257,TX,Flood,26112.0,19584.0,20469.2,Small,G,(PW# 1229) F
+1257,TX,Flood,5151.4,3863.55,4038.18,Small,C,(PW# 1231) F
+1257,TX,Flood,9246.4,6934.8,7248.26,Small,C,(PW# 1237) F
+1257,TX,Flood,35238.04,26428.53,27623.09,Small,G,(PW# 1239) V
+1257,TX,Flood,6837.87,5128.4,5360.19,Small,G,(PW# 1241) V
+1257,TX,Flood,15897.01,11922.76,12461.67,Small,B,(PW# 1242) V
+1257,TX,Flood,20472.26,15354.2,16048.2,Small,F,(PW# 1244) VB
+1257,TX,Flood,12050.0,9037.5,9324.89,Small,G,(PW# 1251) V
+1257,TX,Flood,8754.58,6565.94,6774.73,Small,F,(PW# 1252) V
+1257,TX,Flood,1402.67,1052.0,1085.46,Small,B,(PW# 1254) VB
+1257,TX,Flood,5667.28,4250.46,4385.62,Small,B,(PW# 1255) VB
+1257,TX,Flood,4735.5,3551.63,3664.57,Small,B,(PW# 1256) VB
+1257,TX,Flood,3969.5,2977.13,3071.8,Small,B,(PW# 1257) VB
+1257,TX,Flood,19022.0,14266.5,14720.18,Small,C,(PW# 1262) VB
+1257,TX,Flood,2100.0,1575.0,1646.19,Small,C,(PW# 1264) VB
+1257,TX,Flood,5700.0,4275.0,4410.94,Small,C,(PW# 1265) VB
+1257,TX,Flood,6437.95,4828.46,4982.01,Small,C,(PW# 1266) VB
+1257,TX,Flood,4400.0,3300.0,3404.94,Small,C,(PW# 1268) VB
+1257,TX,Flood,5722.0,4291.5,4427.97,Small,G,(PW# 1274) VB
+1239,TX,Severe Storm(s),50201.0,37650.75,39397.79,Large,B,(PW# 229) L
+1257,TX,Flood,12718.0,9538.5,9969.64,Small,E,(PW# 1283) VB
+1239,TX,Severe Storm(s),14291.83,10718.87,11203.35,Large,B,(PW# 245) Not Provided
+1257,TX,Flood,9304.11,6978.08,7199.98,Small,B,(PW# 1289) VB
+1257,TX,Flood,9219.58,6914.69,7134.58,Small,E,(PW# 1290) VB
+1257,TX,Flood,36901.0,27675.75,28555.84,Small,E,(PW# 1291) VB SUSPEND INSURANCE
+1257,TX,Flood,5000.0,3750.0,3919.5,Small,G,(PW# 1296) F
+1257,TX,Flood,1314.0,985.5,1030.04,Small,E,(PW# 1307) F
+1239,TX,Severe Storm(s),31833.44,23875.08,24954.23,Large,B,(PW# 247) Not Provided
+1257,TX,Flood,9778.0,7333.5,7468.44,Small,G,(PW# 1320) VB
+1257,TX,Flood,11196.04,8397.03,8551.53,Small,A,(PW# 1321) VB
+1257,TX,Flood,2000.0,1500.0,1527.6,Small,E,(PW# 1324) VB
+1257,TX,Flood,2000.0,1500.0,1527.6,Small,E,(PW# 1326) VB
+1257,TX,Flood,17500.0,13125.0,13366.5,Small,G,(PW# 1344) VB
+1257,TX,Flood,7386.0,5539.5,5641.42,Small,D,(PW# 1347) VB
+1257,TX,Flood,9063.29,6797.47,7104.71,Small,A,(PW# 1351) F
+1257,TX,Flood,41068.83,30801.62,32193.85,Small,F,(PW# 1353) F
+1257,TX,Flood,172864.0,129648.0,134775.81,Large,B,(PW# 1355) Not Provided
+1239,TX,Severe Storm(s),6388.2,4791.15,4879.31,Large,B,(PW# 258) F
+1257,TX,Flood,32230.0,24172.5,24617.28,Small,E,(PW# 1375) FINAL RECONCILATION OF GYM/CAF. COSTS
+1257,TX,Flood,12923.56,9692.67,10000.89,Small,B,(PW# 1383) F
+1257,TX,Flood,34969.0,26226.75,26709.32,Small,E,(PW# 1390) F  SUSPENDED FOR INSURANCE
+1257,TX,Flood,31194.0,23395.5,24139.47,Small,E,(PW# 1393) F
+1257,TX,Flood,5493.0,4119.75,4305.96,Small,G,(PW# 1399) F
+1257,TX,Flood,9165.0,6873.75,7114.94,Small,G,(PW# 1400) F
+1239,TX,Severe Storm(s),4154.8,3116.1,3173.44,Large,C,(PW# 260) F
+1239,TX,Severe Storm(s),1320.8,990.6,1008.82,Large,C,(PW# 261) F
+1257,TX,Flood,8927.0,6695.25,6908.16,Small,C,(PW# 1413) F
+1239,TX,Severe Storm(s),2062.18,1546.64,1575.1,Large,C,(PW# 277) F
+1257,TX,Flood,1348.8,1011.6,1043.77,Small,C,(PW# 1420) F
+1239,TX,Severe Storm(s),20536.51,15402.38,16098.57,Large,E,(PW# 286) PUBLIC BUILDINGS AND FACILITIES
+1257,TX,Flood,3270.0,2452.5,2563.35,Small,A,(PW# 1428) F
+1257,TX,Flood,17098.28,12823.71,13403.34,Small,B,(PW# 1429) F
+1239,TX,Severe Storm(s),3914.0,2935.5,2950.18,Large,Z,(PW# 289) STATE MANAGEMENT EXPENSES
+1257,TX,Flood,9922.0,7441.5,7816.55,Small,F,(PW# 2000) V
+1257,TX,Flood,14525.0,10893.75,11240.17,Small,E,(PW# 1092) V - SUSPEND VEH INS
+1257,TX,Flood,3050.0,2287.5,2390.89,Small,F,(PW# 1098) V
+1257,TX,Flood,3192.3,2394.23,2502.45,Small,B,(PW# 1099) V
+1257,TX,Flood,34667.0,26000.25,27175.46,Small,A,(PW# 1108) F
+1257,TX,Flood,44382.52,33286.89,34791.46,Small,B,(PW# 1113) F
+1257,TX,Flood,4376.92,3282.69,3431.07,Small,C,(PW# 1116) VB
+1257,TX,Flood,7080.0,5310.0,5550.01,Small,C,(PW# 1119) VB
+1257,TX,Flood,11491.71,8618.78,8937.14,Small,C,(PW# 1120) V
+1257,TX,Flood,5563.7,4172.78,4305.48,Small,C,(PW# 1133) VB
+1257,TX,Flood,4155.1,3116.33,3215.42,Small,C,(PW# 1134) VB
+1257,TX,Flood,4202.0,3151.5,3251.71,Small,C,(PW# 1142) VB
+1257,TX,Flood,6551.76,4913.82,5070.08,Small,C,(PW# 1145) VB
+1257,TX,Flood,31670.64,23752.98,24508.33,Small,C,(PW# 1147) V
+1257,TX,Flood,11653.12,8739.84,9017.77,Small,C,(PW# 1151) VB
+1257,TX,Flood,8340.27,6255.2,6454.12,Small,C,(PW# 1161) VB
+1257,TX,Flood,4384.0,3288.0,3436.62,Small,A,(PW# 1166) VB
+1257,TX,Flood,12187.14,9140.36,9553.5,Small,B,(PW# 1169) VB
+1257,TX,Flood,20141.0,15105.75,15586.11,Small,A,(PW# 1185) VB
+1257,TX,Flood,6525.0,4893.75,5049.37,Small,C,(PW# 1190) V
+1257,TX,Flood,5617.5,4213.13,4347.11,Small,C,(PW# 1191) V
+1257,TX,Flood,42538.6,31903.95,32918.49,Small,C,(PW# 1192) V
+1586,AZ,Severe Storm(s),9602.21,7201.66,7639.53,Small,C,(PW# 6) COURTHOUSE PARKING LOT
+1257,TX,Flood,8000.0,6000.0,6190.8,Small,C,(PW# 1207) VB
+1257,TX,Flood,19546.46,14659.85,15126.03,Small,C,(PW# 1209) VB
+1239,TX,Severe Storm(s),32116.6,24087.45,25224.37,Large,G,(PW# 6) Not Provided
+1257,TX,Flood,2061.0,1545.75,1615.62,Small,B,(PW# 1216) F
+1257,TX,Flood,2938.5,2203.88,2273.96,Small,C,(PW# 1221) F
+1257,TX,Flood,10969.61,8227.21,8599.07,Small,E,(PW# 1226) F
+1257,TX,Flood,3270.62,2452.97,2563.84,Small,E,(PW# 1228) F
+1257,TX,Flood,22733.0,17049.75,17820.4,Small,E,(PW# 1230) F
+1257,TX,Flood,7551.28,5663.46,5919.45,Small,C,(PW# 1232) F
+1257,TX,Flood,16447.72,12335.79,12893.37,Small,C,(PW# 1233) F
+1257,TX,Flood,6033.6,4525.2,4729.74,Small,C,(PW# 1235) F
+1257,TX,Flood,5451.4,4088.55,4273.35,Small,C,(PW# 1236) F
+1257,TX,Flood,11195.55,8396.66,8776.18,Small,C,(PW# 1238) F
+1257,TX,Flood,10035.29,7526.47,7765.81,Small,F,(PW# 1246) V
+1257,TX,Flood,1988.34,1491.26,1538.68,Small,B,(PW# 1247) V
+1257,TX,Flood,27481.41,20611.06,21266.49,Small,C,(PW# 1249) V
+1257,TX,Flood,19084.38,14313.29,14768.46,Small,C,(PW# 1250) V
+1257,TX,Flood,8100.0,6075.0,6268.18,Small,C,(PW# 1261) VB
+1257,TX,Flood,14114.58,10585.94,11064.43,Small,B,(PW# 1282) V
+1257,TX,Flood,26950.0,20212.5,20855.26,Small,E,(PW# 1288) VB -
+1257,TX,Flood,45628.0,34221.0,35767.78,Small,C,(PW# 1299) F
+1257,TX,Flood,37120.0,27840.0,28725.31,Small,G,(PW# 1302) F
+1257,TX,Flood,16488.12,12366.09,12759.33,Small,G,(PW# 1306) F
+1257,TX,Flood,739787.75,554840.81,569310.14,Large,A,(PW# 1309) L
+1257,TX,Flood,2000.0,1500.0,1527.6,Small,E,(PW# 1325) VB
+1257,TX,Flood,20422.4,15316.8,15598.63,Small,G,(PW# 1332) VB
+1257,TX,Flood,4586.12,3439.59,3502.88,Small,G,(PW# 1339) VB
+1257,TX,Flood,1000.0,750.0,763.8,Small,E,(PW# 1349) VB
+1257,TX,Flood,3376.18,2532.14,2646.6,Small,B,(PW# 1358) F
+1239,TX,Severe Storm(s),18832.0,14124.0,14645.64,Large,C,(PW# 14) Not Provided
+1257,TX,Flood,11910.0,8932.5,9336.25,Small,A,(PW# 1382) F
+1239,TX,Severe Storm(s),34904.5,26178.38,27145.24,Large,C,(PW# 15) Not Provided
+1257,TX,Flood,5523.0,4142.25,4329.48,Small,B,(PW# 1395) F
+1257,TX,Flood,180152.0,135114.0,140415.63,Large,B,(PW# 1404) L
+1257,TX,Flood,1065.0,798.75,824.15,Small,B,(PW# 1405) F
+1257,TX,Flood,11916.2,8937.15,9341.11,Small,B,(PW# 1408) F
+1257,TX,Flood,14199.68,10649.76,11131.13,Small,B,(PW# 1409) F
+1257,TX,Flood,11954.92,8966.19,9371.46,Small,B,(PW# 1410) F
+1257,TX,Flood,7768.13,5826.1,6089.44,Small,B,(PW# 1411) F
+1239,TX,Severe Storm(s),6688.0,5016.0,5320.98,Large,F,(PW# 21) Not Provided
+1239,TX,Severe Storm(s),21400.0,16050.0,16642.78,Large,A,(PW# 33) Not Provided
+1239,TX,Severe Storm(s),128059.54,96044.66,97811.88,Large,F,(PW# 34) L
+1239,TX,Severe Storm(s),3486.0,2614.5,2711.06,Large,C,(PW# 43) Not Provided
+1257,TX,Flood,25629.75,19222.31,20091.16,Small,C,(PW# 2002) VB
+1257,TX,Flood,5417.0,4062.75,4267.51,Small,G,(PW# 2005) VB
+1239,TX,Severe Storm(s),11270.0,8452.5,8764.68,Large,C,(PW# 45) Not Provided
+1257,TX,Flood,4912.24,3684.18,3869.87,Small,F,(PW# 2013) V
+1257,TX,Flood,36796.0,27597.0,29274.89,Small,B,(PW# 2015) V
+1257,TX,Flood,22836.01,17127.01,17990.21,Small,C,(PW# 2016) V
+1257,TX,Flood,9637.81,7228.36,7569.53,Small,E,(PW# 2019) F
+1257,TX,Flood,1520.6,1140.45,1194.27,Small,B,(PW# 2022) VB
+1257,TX,Flood,2942.15,2206.61,2306.35,Small,A,(PW# 1407) F
+1257,TX,Flood,11865.4,8899.05,9182.03,Small,C,(PW# 1414) F
+1257,TX,Flood,26975.0,20231.25,20603.5,Small,F,(PW# 1426) F
+1257,TX,Flood,5150.87,3863.15,4037.76,Small,B,(PW# 1433) F-PROTECTIVE MEASURES
+1257,TX,Flood,8747.0,6560.25,6890.88,Small,A,(PW# 2007) VB
+1257,TX,Flood,8606.0,6454.5,6779.81,Small,A,(PW# 2008) VB
+1257,TX,Flood,1776.0,1332.0,1394.87,Small,C,(PW# 2026) V
+1257,TX,Flood,1268.32,951.24,996.13,Small,C,(PW# 2030) V
+1257,TX,Flood,1820.0,1365.0,1415.42,Small,C,(PW# 2037) V
+1257,TX,Flood,7850.0,5887.5,6104.94,Small,C,(PW# 2038) V
+3586,NC,Hurricane,819.78,819.78,819.78,Small,Z,Town of Sunset Beach Cat Z
+1257,TX,Flood,4382.0,3286.5,3407.89,Small,C,(PW# 2045) VB
+1257,TX,Flood,2702.0,2026.5,2101.34,Small,C,(PW# 2048) VB
+1257,TX,Flood,2072.0,1554.0,1611.4,Small,C,(PW# 2053) VB
+1257,TX,Flood,9072.0,6804.0,7055.29,Small,C,(PW# 2055) VB
+1257,TX,Flood,1500.0,1125.0,1181.7,Small,C,(PW# 2060) V
+1257,TX,Flood,3530.85,2648.14,2781.61,Small,E,(PW# 2061) V
+1257,TX,Flood,1190.0,892.5,937.48,Small,G,(PW# 2064) VB
+1257,TX,Flood,6666.35,4999.76,5251.74,Small,B,(PW# 2069) VB
+1257,TX,Flood,5683.75,4262.81,4477.66,Small,B,(PW# 2071) VB
+1257,TX,Flood,1000.0,750.0,787.8,Small,E,(PW# 2072) VB
+1257,TX,Flood,2590.89,1943.17,2041.09,Small,C,(PW# 2074) VB
+1239,TX,Severe Storm(s),3819.67,2864.75,2970.56,Large,C,(PW# 47) Not Provided
+1257,TX,Flood,1922.71,1442.03,1495.28,Small,B,(PW# 2077) VB
+1257,TX,Flood,1184.83,888.62,916.87,Small,B,(PW# 2084) V
+1257,TX,Flood,3713.02,2784.77,2873.32,Small,B,(PW# 2085) V
+1257,TX,Flood,2321.73,1741.3,1805.61,Small,B,(PW# 2089) VB
+1257,TX,Flood,6830.0,5122.5,5380.67,Small,F,(PW# 2090) V
+1257,TX,Flood,46953.38,35215.04,37525.65,Small,C,(PW# 2092) VB
+1257,TX,Flood,46143.38,34607.54,35885.72,Small,C,(PW# 2093) VB
+1257,TX,Flood,29698.0,22273.5,21976.8,Small,C,(PW# 2094) V
+1257,TX,Flood,1080.0,810.0,839.91,Small,C,(PW# 2095) VB
+1257,TX,Flood,13244.55,9933.41,10382.41,Small,G,(PW# 2102) VB
+1257,TX,Flood,13863.31,10397.48,10728.12,Small,G,(PW# 2104) V
+1257,TX,Flood,40843.0,30632.25,31195.89,Small,A,(PW# 2106) V
+1257,TX,Flood,4560.9,3420.68,3593.08,Small,A,(PW# 2111) F
+1257,TX,Flood,2265.0,1698.75,1752.77,Small,E,(PW# 2113) VB
+1257,TX,Flood,1013.0,759.75,783.91,Small,E,(PW# 2114) VB
+1257,TX,Flood,6518.34,4888.76,5135.15,Small,F,(PW# 2117) V
+1257,TX,Flood,2273.0,1704.75,1736.12,Small,E,(PW# 2122) VB SUSPEND INS.
+1239,TX,Severe Storm(s),1481.08,1110.81,1151.84,Large,C,(PW# 48) Not Provided
+1257,TX,Flood,30121.3,22590.98,23309.36,Small,G,(PW# 2137) V
+1257,TX,Flood,1217.66,913.25,954.53,Small,B,(PW# 2140) V
+1257,TX,Flood,5895.0,4421.25,4502.6,Small,E,(PW# 2142) F  SUSPEND INS.
+1257,TX,Flood,15487.5,11615.63,12008.83,Small,G,(PW# 2153) F
+1257,TX,Flood,5662.0,4246.5,4438.44,Small,A,(PW# 2154) V
+1257,TX,Flood,6750.0,5062.5,5291.32,Small,E,(PW# 2166) F
+1257,TX,Flood,3242.79,2432.09,2542.01,Small,B,(PW# 2168) V
+1257,TX,Flood,1090.0,817.5,854.45,Small,A,(PW# 2177) F
+1257,TX,Flood,15120.5,11340.38,11852.97,Small,C,(PW# 2180) F
+1257,TX,Flood,4838.0,3628.5,3743.89,Small,E,(PW# 2186) VB
+1239,TX,Severe Storm(s),17460.0,13095.0,13578.64,Large,C,(PW# 52) Not Provided
+1257,TX,Flood,1710.0,1282.5,1340.47,Small,C,(PW# 2200) F
+1257,TX,Flood,5773.54,4330.16,4525.87,Small,G,(PW# 2203) F
+1257,TX,Flood,4521.3,3390.98,3498.8,Small,C,(PW# 2214) F
+1257,TX,Flood,2878.45,2158.84,2227.49,Small,F,(PW# 2217) F
+1257,TX,Flood,2126.87,1595.15,1645.88,Small,F,(PW# 2218) F
+1257,TX,Flood,1000.0,750.0,773.85,Small,E,(PW# 2224) F
+1257,TX,Flood,44581.0,33435.75,34499.0,Small,B,(PW# 2225) F
+1239,TX,Severe Storm(s),5763.0,4322.25,4481.88,Large,C,(PW# 56) Not Provided
+1257,TX,Flood,3624.0,2718.0,2804.43,Small,E,(PW# 2228) F
+1257,TX,Flood,1249.0,936.75,966.54,Small,E,(PW# 2230) F
+1239,TX,Severe Storm(s),4110.0,3082.5,3196.35,Large,C,(PW# 57) Not Provided
+1257,TX,Flood,137411.0,103058.25,106335.51,Large,A,(PW# 2253) L
+1257,TX,Flood,6416.0,4812.0,4900.54,Small,E,(PW# 2257) Not Provided
+1257,TX,Flood,4843.53,3632.65,3748.17,Small,E,(PW# 2263) F
+1257,TX,Flood,1426.0,1069.5,1103.51,Small,E,(PW# 2266) F
+1257,TX,Flood,2035.0,1526.25,1574.78,Small,E,(PW# 2267) F
+1257,TX,Flood,3007.24,2255.43,2327.15,Small,A,(PW# 2270) F
+1257,TX,Flood,4468.94,3351.71,3458.29,Small,B,(PW# 2271) F
+1257,TX,Flood,25338.73,19004.05,19608.39,Small,F,(PW# 2272) F
+1257,TX,Flood,20993.9,15745.43,16539.0,Small,C,(PW# 3003) VB
+1257,TX,Flood,5496.23,4122.17,4308.48,Small,E,(PW# 3006) F
+1257,TX,Flood,39494.5,29620.88,30562.82,Small,C,(PW# 3007) V
+1257,TX,Flood,7203.38,5402.54,5646.74,Small,B,(PW# 1396) F
+1257,TX,Flood,12279.0,9209.25,9625.51,Small,G,(PW# 1398) F
+1257,TX,Flood,17047.33,12785.5,13192.08,Small,F,(PW# 1406) F
+1257,TX,Flood,45286.0,33964.5,35129.62,Small,C,(PW# 1412) F
+1257,TX,Flood,46849.0,35136.75,35783.26,Small,E,(PW# 1416) F
+1239,TX,Severe Storm(s),16038.17,12028.63,12634.88,Large,E,(PW# 67) Not Provided
+1257,TX,Flood,2649.0,1986.75,2049.93,Small,F,(PW# 1424) F
+1239,TX,Severe Storm(s),6211.7,4658.78,4942.03,Large,B,(PW# 68) EMERGENCY WORK
+1257,TX,Flood,8000.0,6000.0,6110.4,Small,F,(PW# 1427) F
+1257,TX,Flood,8480.0,6360.0,6562.24,Small,C,(PW# 1431) F
+1257,TX,Flood,15398.42,11548.82,12130.87,Small,C,(PW# 2017) V
+1257,TX,Flood,1455.0,1091.25,1146.25,Small,A,(PW# 2018) V
+1257,TX,Flood,2626.75,1970.06,2063.05,Small,E,(PW# 2021) F
+1257,TX,Flood,6544.5,4908.38,5140.06,Small,C,(PW# 2023) VB
+1257,TX,Flood,1864.64,1398.48,1464.48,Small,C,(PW# 2027) V
+1257,TX,Flood,2113.6,1585.2,1660.03,Small,C,(PW# 2028) V
+1257,TX,Flood,3110.0,2332.5,2442.6,Small,C,(PW# 2033) V
+1257,TX,Flood,5360.0,4020.0,4190.83,Small,C,(PW# 2034) V
+1257,TX,Flood,12584.4,9438.3,9786.89,Small,C,(PW# 2039) V
+1257,TX,Flood,4148.2,3111.15,3226.05,Small,C,(PW# 2044) VB
+1257,TX,Flood,20076.0,15057.0,15613.11,Small,C,(PW# 2047) VB
+1257,TX,Flood,14784.0,11088.0,11497.52,Small,C,(PW# 2050) VB
+1257,TX,Flood,5474.0,4105.5,4257.13,Small,C,(PW# 2059) VB
+1257,TX,Flood,5797.02,4347.77,4566.9,Small,B,(PW# 2063) V
+1257,TX,Flood,13485.0,10113.75,10623.48,Small,G,(PW# 2067) V
+1257,TX,Flood,10480.0,7860.0,8109.95,Small,D,(PW# 2075) VB
+1257,TX,Flood,3250.0,2437.5,2527.53,Small,A,(PW# 2079) VB
+1257,TX,Flood,46452.0,34839.0,36957.21,Small,C,(PW# 2080) F
+1257,TX,Flood,44784.0,33588.0,35630.15,Small,C,(PW# 2081) F
+1257,TX,Flood,35954.0,26965.5,28327.66,Small,C,(PW# 2082) F
+1257,TX,Flood,30769.0,23076.75,24165.97,Small,C,(PW# 2083) F
+1257,TX,Flood,2460.0,1845.0,1913.14,Small,C,(PW# 2096) V
+1257,TX,Flood,47253.75,35440.31,36749.23,Small,C,(PW# 2098) VB
+1257,TX,Flood,13350.0,10012.5,10330.9,Small,E,(PW# 2100) VB
+1257,TX,Flood,35825.0,26868.75,28083.21,Small,F,(PW# 2101) VB
+1257,TX,Flood,19282.5,14461.88,14996.0,Small,A,(PW# 2107) V
+1257,TX,Flood,26359.81,19769.86,20766.25,Small,F,(PW# 2115) V
+1257,TX,Flood,39464.77,29598.58,31090.36,Small,C,(PW# 2116) V
+1257,TX,Flood,2200.0,1650.0,1733.16,Small,A,(PW# 2118) V
+1257,TX,Flood,15738.0,11803.5,12020.69,Small,E,(PW# 2121) VB  SUSPEND INS.
+1257,TX,Flood,21388.21,16041.16,16633.62,Small,F,(PW# 2129) V
+1257,TX,Flood,21112.0,15834.0,16125.34,Small,E,(PW# 2132) VB  SUSPEND INS.
+1257,TX,Flood,15569.55,11677.16,12108.44,Small,F,(PW# 2135) V
+1257,TX,Flood,10107.23,7580.42,7821.49,Small,F,(PW# 2145) V
+1257,TX,Flood,1936.4,1452.3,1517.94,Small,B,(PW# 2147) V
+1257,TX,Flood,3424.0,2568.0,2684.07,Small,E,(PW# 2148) VB
+1257,TX,Flood,3005.0,2253.75,2325.42,Small,E,(PW# 2151) F
+1257,TX,Flood,3750.0,2812.5,2939.62,Small,E,(PW# 2152) F
+1257,TX,Flood,6148.0,4611.0,4757.63,Small,A,(PW# 2160) F
+1257,TX,Flood,5540.0,4155.0,4287.12,Small,A,(PW# 2163) F
+1257,TX,Flood,150.0,112.5,117.59,Small,E,(PW# 2167) F
+1257,TX,Flood,2075.0,1556.25,1626.6,Small,F,(PW# 2170) V
+1257,TX,Flood,1400.0,1050.0,1097.46,Small,C,(PW# 2171) V
+1257,TX,Flood,1813.56,1360.17,1421.65,Small,C,(PW# 2172) V
+1257,TX,Flood,6005.0,4503.75,4707.32,Small,C,(PW# 2173) V
+1257,TX,Flood,2686.0,2014.5,2105.55,Small,C,(PW# 2174) V
+1257,TX,Flood,2933.48,2200.11,2299.56,Small,D,(PW# 2179) F
+1257,TX,Flood,24794.94,18596.21,19187.57,Small,F,(PW# 2181) V
+1257,TX,Flood,7259.04,5444.28,5617.41,Small,F,(PW# 2184) V
+1257,TX,Flood,4574.0,3430.5,3585.56,Small,A,(PW# 2199) F
+1257,TX,Flood,7532.27,5649.2,5828.85,Small,G,(PW# 2206) F
+1257,TX,Flood,7859.0,5894.25,6081.69,Small,C,(PW# 2208) F
+1257,TX,Flood,2748.08,2061.06,2126.6,Small,A,(PW# 2213) F
+1257,TX,Flood,2750.0,2062.5,2128.09,Small,C,(PW# 2215) F
+1257,TX,Flood,28788.88,21591.66,22278.28,Small,G,(PW# 2220) F
+1257,TX,Flood,5000.0,3750.0,3869.25,Small,E,(PW# 2227) F
+1257,TX,Flood,1562.0,1171.5,1208.75,Small,E,(PW# 2229) F
+1257,TX,Flood,1003.0,752.25,776.17,Small,E,(PW# 2234) F
+1239,TX,Severe Storm(s),3853.0,2889.75,3065.45,Large,C,(PW# 69) BITOUMINOUS SURFACE
+1257,TX,Flood,7833.0,5874.75,6061.57,Small,B,(PW# 2244) F
+1239,TX,Severe Storm(s),15400.0,11550.0,12252.24,Large,B,(PW# 73) EMERGENCY WORK
+1257,TX,Flood,25500.0,19125.0,19733.17,Small,A,(PW# 2246) F
+1239,TX,Severe Storm(s),46670.0,35002.5,37130.65,Large,C,(PW# 77) Not Provided
+1257,TX,Flood,9242.91,6932.18,7281.57,Small,B,(PW# 2006) V
+1257,TX,Flood,4564.04,3423.03,3595.55,Small,A,(PW# 2009) VB
+1257,TX,Flood,3673.64,2755.23,2894.09,Small,A,(PW# 2010) VB
+1257,TX,Flood,4559.08,3419.31,3591.65,Small,F,(PW# 2011) V
+1257,TX,Flood,10944.7,8208.53,8579.56,Small,F,(PW# 2012) V
+1257,TX,Flood,4855.0,3641.25,3813.12,Small,E,(PW# 2020) F
+1257,TX,Flood,2926.4,2194.8,2298.4,Small,C,(PW# 2024) V
+1257,TX,Flood,2590.0,1942.5,2034.18,Small,C,(PW# 2031) V
